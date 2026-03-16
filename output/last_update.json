@@ -1,1 +1,13 @@
-{"updated":"init","note":"Esegui il workflow manualmente per il primo aggiornamento"}
+{
+  "updated": "2026-03-16",
+  "elements_count": 471,
+  "triples_count": 7445,
+  "source": "OpenStreetMap via Overpass API",
+  "bbox": [
+    39.7,
+    14.9,
+    42.0,
+    18.6
+  ],
+  "query_tag": "emergency=defibrillator"
+}
