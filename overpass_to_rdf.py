@@ -50,15 +50,16 @@ OVERPASS_ENDPOINTS = [
 
 PUGLIA_BBOX = (39.7, 14.9, 42.0, 18.6)
 
-OVERPASS_QUERY = """
-[out:json][timeout:60];
-(
-  node[emergency=defibrillator]{bbox};
-  way[emergency=defibrillator]{bbox};
-  relation[emergency=defibrillator]{bbox};
-);
-out center body;
-""".format(bbox="{},{},{},{}".format(*PUGLIA_BBOX))
+OVERPASS_QUERY = (
+    "[out:json][timeout:60];"
+    "(node[emergency=defibrillator]("
+    + ",".join(str(x) for x in PUGLIA_BBOX)
+    + ");way[emergency=defibrillator]("
+    + ",".join(str(x) for x in PUGLIA_BBOX)
+    + ");relation[emergency=defibrillator]("
+    + ",".join(str(x) for x in PUGLIA_BBOX)
+    + "););out center body;"
+)
 
 
 def fetch_overpass(query, retries=3, backoff=5.0):
