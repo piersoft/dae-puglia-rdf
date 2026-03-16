@@ -14,6 +14,7 @@ Dipendenze:
 """
 
 import argparse
+import csv
 import json
 import logging
 import sys
@@ -294,6 +295,71 @@ def load_mock_data():
     ]
 
 
+
+def export_csv(elements: list, out_path: Path) -> None:
+    """Esporta i dati DAE in formato CSV flat."""
+    FIELDS = [
+        "osm_id", "osm_type", "osm_url",
+        "name", "description",
+        "addr_street", "addr_housenumber", "addr_city",
+        "addr_postcode", "addr_province",
+        "lat", "lon",
+        "opening_hours", "access",
+        "operator", "phone", "ref",
+        "indoor", "level",
+        "last_updated",
+    ]
+
+    today = date.today().isoformat()
+
+    with open(out_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDS, extrasaction="ignore")
+        writer.writeheader()
+
+        for elem in elements:
+            tags     = elem.get("tags", {})
+            osm_id   = elem["id"]
+            osm_type = elem.get("type", "node")
+            lat, lon = get_center(elem)
+
+            if lat is None:
+                continue
+
+            # Provincia: deriva dal CAP o dal tag addr:state
+            postcode = tags.get("addr:postcode", "")
+            province = tags.get("addr:province", tags.get("addr:state", ""))
+            if not province and postcode:
+                # Mapping CAP → provincia Puglia
+                cap_prefix = postcode[:2] if len(postcode) >= 2 else ""
+                province = {
+                    "70": "BA", "76": "BT", "72": "BR",
+                    "71": "FG", "73": "LE", "74": "TA",
+                }.get(cap_prefix, "")
+
+            writer.writerow({
+                "osm_id":           osm_id,
+                "osm_type":         osm_type,
+                "osm_url":          f"https://www.openstreetmap.org/{osm_type}/{osm_id}",
+                "name":             tags.get("name", ""),
+                "description":      tags.get("description", tags.get("note", "")),
+                "addr_street":      tags.get("addr:street", ""),
+                "addr_housenumber": tags.get("addr:housenumber", ""),
+                "addr_city":        tags.get("addr:city", tags.get("addr:municipality", "")),
+                "addr_postcode":    postcode,
+                "addr_province":    province,
+                "lat":              lat,
+                "lon":              lon,
+                "opening_hours":    tags.get("opening_hours", ""),
+                "access":           tags.get("access", ""),
+                "operator":         tags.get("operator", ""),
+                "phone":            tags.get("phone", tags.get("contact:phone", "")),
+                "ref":              tags.get("ref", ""),
+                "indoor":           tags.get("indoor", ""),
+                "level":            tags.get("level", ""),
+                "last_updated":     today,
+            })
+
+
 def main():
     parser = argparse.ArgumentParser(description="Overpass -> RDF DAE Puglia")
     parser.add_argument("--output-dir", default="./output")
@@ -319,6 +385,10 @@ def main():
     g.serialize(destination=str(rdf_path), format="xml")
     log.info("Scritto: %s", rdf_path)
 
+    csv_path = out_dir / "dae_puglia.csv"
+    export_csv(elements, csv_path)
+    log.info("Scritto: %s", csv_path)
+
     (out_dir / "last_update.json").write_text(json.dumps({
         "updated":        date.today().isoformat(),
         "elements_count": len(elements),
@@ -326,6 +396,7 @@ def main():
         "source":         "OpenStreetMap via Overpass API",
         "bbox":           PUGLIA_BBOX,
         "query_tag":      "emergency=defibrillator",
+        "files":          ["dae_puglia.ttl", "dae_puglia.rdf", "dae_puglia.csv"],
     }, indent=2, ensure_ascii=False))
     log.info("Completato.")
 

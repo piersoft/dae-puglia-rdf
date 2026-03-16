@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/dae_puglia.ttl output/dae_puglia.rdf output/last_update.json
+          git add output/dae_puglia.ttl output/dae_puglia.rdf output/dae_puglia.csv output/last_update.json
           git diff --cached --quiet || git commit -m "chore: aggiornamento DAE Puglia $(date -u +%Y-%m-%d)"
           git push
