@@ -46,4 +46,4 @@ python overpass_to_rdf.py --mock   # test senza rete
 
 ## Licenza
 
-Dati RDF rilasciati con licenza **CC BY 4.0**.
+Dati RDF rilasciati con licenza **[ODbL](https://opendatacommons.org/licenses/odbl/)**.
