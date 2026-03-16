@@ -118,7 +118,8 @@ def city_uri(city_name):
 
 
 def safe_id(osm_id, osm_type="node"):
-    return f"OSM-{{'node':'N','way':'W','relation':'R'}.get(osm_type,'X')}{osm_id}"
+    prefix = {'node': 'N', 'way': 'W', 'relation': 'R'}.get(osm_type, 'X')
+    return f'OSM-{prefix}{osm_id}'
 
 
 def get_center(element):
