@@ -1,0 +1,57 @@
+name: Aggiorna DAE Puglia da OpenStreetMap
+
+on:
+  schedule:
+    # Ogni giorno alle 03:00 UTC (05:00 ora italiana)
+    - cron: "0 3 * * *"
+  workflow_dispatch:   # permette esecuzione manuale dal tab Actions
+
+jobs:
+  update-rdf:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necessario per il commit automatico
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui query Overpass e genera RDF
+        run: python overpass_to_rdf.py --output-dir ./output
+
+      - name: Verifica file generati
+        run: |
+          echo "=== Turtle ==="
+          wc -l output/dae_puglia.ttl
+          echo "=== RDF/XML ==="
+          wc -l output/dae_puglia.rdf
+          echo "=== Metadati ==="
+          cat output/last_update.json
+
+      - name: Valida Turtle con rdflib
+        run: |
+          python - << 'EOF'
+          from rdflib import Graph
+          g = Graph()
+          g.parse("output/dae_puglia.ttl", format="turtle")
+          print(f"Turtle valido: {len(g)} triple")
+          EOF
+
+      - name: Commit e push se ci sono modifiche
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/dae_puglia.ttl output/dae_puglia.rdf output/last_update.json
+          # Commit solo se ci sono effettive modifiche
+          git diff --cached --quiet || \
+            git commit -m "chore: aggiornamento DAE Puglia $(date -u +%Y-%m-%d)"
+          git push
