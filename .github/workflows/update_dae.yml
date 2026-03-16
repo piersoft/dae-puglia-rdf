@@ -10,16 +10,32 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
-      - run: pip install -r requirements.txt
-      - run: python overpass_to_rdf.py --output-dir ./output
-      - run: python3 -c "from rdflib import Graph; g=Graph(); g.parse('output/dae_puglia.ttl',format='turtle'); print(f'OK: {len(g)} triple')"
-      - run: |
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Genera RDF da Overpass
+        run: python overpass_to_rdf.py --output-dir ./output
+
+      - name: Valida Turtle
+        run: |
+          python3 - << 'PYEOF'
+          from rdflib import Graph
+          g = Graph()
+          g.parse("output/dae_puglia.ttl", format="turtle")
+          print(f"Turtle valido: {len(g)} triple")
+          PYEOF
+
+      - name: Commit e push
+        run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/dae_puglia.ttl output/dae_puglia.rdf output/last_update.json
