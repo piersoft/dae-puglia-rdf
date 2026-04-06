@@ -1,473 +1,474 @@
 osm_id,osm_type,osm_url,name,description,addr_street,addr_housenumber,addr_city,addr_postcode,addr_province,lat,lon,opening_hours,access,operator,phone,ref,indoor,level,last_updated
-3769748372,node,https://www.openstreetmap.org/node/3769748372,Defibrillatore DAE Chiesa dei Salesiani,,,,,,,40.3637584,18.1826937,,,,,,,,2026-04-05
-3769750225,node,https://www.openstreetmap.org/node/3769750225,Defibrillatore Scuola Media Quinto Ennio,,Via Matteo Renato Imbriani,46,Lecce,73100,LE,40.3555763,18.1825285,,,,,,,,2026-04-05
-3770036333,node,https://www.openstreetmap.org/node/3770036333,ACI Lecce,,Via Giuseppe Candido,2,Lecce,73100,LE,40.3500105,18.1771459,"Mo-Fr 08:00-13:00, 16:00-18:00; Sa 08:00-11:00; Aug Mo,We,Fr 08:00-13:00; Aug Sa off; Jul Mo,We,Fr 08:00-13:00; PH off",,Automobile Club d'Italia,+39 0832 309066,,,,2026-04-05
-3770036334,node,https://www.openstreetmap.org/node/3770036334,Check Up Centre,,Via Daniela e Paola Bastianutti,35,Lecce,73100,LE,40.3423573,18.1600599,,,,+39 0832 352419,,,,2026-04-05
-3770094807,node,https://www.openstreetmap.org/node/3770094807,Defibrillatore DAE Circolo Tennis,,,,,,,40.3569618,18.1681175,,,,,,,,2026-04-05
-3770112780,node,https://www.openstreetmap.org/node/3770112780,Confcommercio Lecce,,Via Cicolella,3,Lecce,73100,LE,40.3444467,18.1830945,,,,+39 0832 345146,,,,2026-04-05
-3770174106,node,https://www.openstreetmap.org/node/3770174106,Defibrillatore DAE Istituto Magistrale Siciliani,,,,,,,40.3472947,18.1738948,,,,,,yes,,2026-04-05
-3770174863,node,https://www.openstreetmap.org/node/3770174863,DAE c/o Liceo Classico Statale Giuseppe Palmieri,,,,,,,40.3545462,18.1662771,,,,,,,,2026-04-05
-3770204845,node,https://www.openstreetmap.org/node/3770204845,Defibrillatore DAE del CUS Lecce,,,,,,,40.3614079,18.1682476,,,,,,yes,,2026-04-05
-3770263210,node,https://www.openstreetmap.org/node/3770263210,Defibrillatore DAE Polizia Municipale,,,,,,,40.3495441,18.1858273,,,,,,,,2026-04-05
-3813039322,node,https://www.openstreetmap.org/node/3813039322,Giudice di Pace,,,,,,,40.3622136,18.1709295,,,,,,,,2026-04-05
-3859476091,node,https://www.openstreetmap.org/node/3859476091,ICOS Lecce,,Via Luigi Einaudi,12,Lecce,73100,LE,40.3591156,18.1577752,,,,,,,,2026-04-05
-3859793276,node,https://www.openstreetmap.org/node/3859793276,Dott. Mario Gazzabin,,Via Enzo Sozzo,9,Lecce,73100,LE,40.3460349,18.1842776,,,,,,,,2026-04-05
-3861014024,node,https://www.openstreetmap.org/node/3861014024,Defibrillatore DAE Centro Medico Pignatelli,,,,,,,40.3471194,18.1656652,,,,,,,,2026-04-05
-3861014025,node,https://www.openstreetmap.org/node/3861014025,Defibrillatore DAE I.I.S.S. De Pace,,,,,,,40.3471722,18.1783707,,,,,,,,2026-04-05
-3861014026,node,https://www.openstreetmap.org/node/3861014026,Defibrillatore DAE Istituto Tecnico Deledda,,,,,,,40.3612292,18.1941529,,,,,,,,2026-04-05
-3861014027,node,https://www.openstreetmap.org/node/3861014027,Defibrillatore DAE Laboratorio Pignatelli,,,,,,,40.3474037,18.1659474,,,,,,,,2026-04-05
-3861014028,node,https://www.openstreetmap.org/node/3861014028,Defibrillatore DAE Liceo Scientifico Banzi Bazoli,,,,,,,40.3611203,18.1924708,,,,,,,,2026-04-05
-3861014029,node,https://www.openstreetmap.org/node/3861014029,Defibrillatore DAE Medic's Biomedica,,,,,,,40.3542573,18.151898,,,,,,,,2026-04-05
-3861014030,node,https://www.openstreetmap.org/node/3861014030,Defibrillatore DAE Palazzo Carafa,,,,,,,40.3535788,18.1717592,,,,,,yes,,2026-04-05
-3861014031,node,https://www.openstreetmap.org/node/3861014031,Defibrillatore DAE Tribunale Civile,,,,,,,40.3624315,18.1705735,,,,,,,,2026-04-05
-3861014032,node,https://www.openstreetmap.org/node/3861014032,Defibrillatore DAE Tribunale Penale,,,,,,,40.3591324,18.1731686,,,,,,,,2026-04-05
-3861080739,node,https://www.openstreetmap.org/node/3861080739,DAE c/o RX CALABRESE,,,,,,,40.3221111,18.1337556,,,,,,,,2026-04-05
-3874229578,node,https://www.openstreetmap.org/node/3874229578,DAE c/o Uffici Comunali,,,,,,,40.352644,18.1693089,,,,,,,,2026-04-05
-3874230757,node,https://www.openstreetmap.org/node/3874230757,DAE c/o Caserma Zappalà,,,,,,,40.3476835,18.1546586,,,,,,,,2026-04-05
-3874231564,node,https://www.openstreetmap.org/node/3874231564,DAE c/o Caserma Nacci,,,,,,,40.3452175,18.1484992,,,,,,,,2026-04-05
-3874232602,node,https://www.openstreetmap.org/node/3874232602,DAE c/o Centro Ippico Militare,,,,,,,40.3535007,18.2151325,,,,,,,,2026-04-05
-3874234249,node,https://www.openstreetmap.org/node/3874234249,Studio Analisi Cliniche De Vitis,,Via Edoardo De Candia,35,Lecce,73100,LE,40.3456083,18.1845717,,,,,,,,2026-04-05
-3888337596,node,https://www.openstreetmap.org/node/3888337596,Crio,,Via Matteo Renato Imbriani,13b,Lecce,73100,LE,40.3531344,18.1831695,,,,,,,,2026-04-05
-3888347869,node,https://www.openstreetmap.org/node/3888347869,Studio Radiologico Quarta Colosso,,Via Filippo Turati,19,,73100,LE,40.3510365,18.1813545,,,,,,,,2026-04-05
-3894730989,node,https://www.openstreetmap.org/node/3894730989,"Defibrillatore DAE c/o Liceo Scientifico ""C. De Giorgi""",,,,,,,40.3596698,18.1718057,,,,,,,,2026-04-05
-3894779344,node,https://www.openstreetmap.org/node/3894779344,Defibrillatore DAE c/o Liceo De Giorgi,,,,,,,40.3571976,18.1608021,,,,,,,,2026-04-05
-3894989585,node,https://www.openstreetmap.org/node/3894989585,Defibrillatore DAE c/o Centro TKD Olimpico,,,,,,,40.3371751,18.1836927,,,,,,,,2026-04-05
-3902577099,node,https://www.openstreetmap.org/node/3902577099,"DAE defibrillatore c/o Istituto Tecnico Commerciale ""Francesco Calasso""",,,,,,,40.3691061,18.1732224,,,,,,,,2026-04-05
-3920664155,node,https://www.openstreetmap.org/node/3920664155,Postazione Defibrillatore DAE c/o Palazzetto dello Sport Germano Ventura,,,,,,,40.362963,18.1924018,,,,,,,,2026-04-05
-3920700725,node,https://www.openstreetmap.org/node/3920700725,Postazione Defibrillatore DAE c/o Centro Sportivo Santa Rosa,,,,,,,40.3647518,18.1750447,,,,,,,,2026-04-05
-3921786106,node,https://www.openstreetmap.org/node/3921786106,,,,,,,,40.5798024,15.7457802,24/7,,,,,,,2026-04-05
-3941788201,node,https://www.openstreetmap.org/node/3941788201,Postazione Defibrillatore DAE c/o Casa di Cura Villa Bianca,,,,,,,40.3427948,18.1753974,,,,,,,,2026-04-05
-3941821019,node,https://www.openstreetmap.org/node/3941821019,Postazione Defibrillatore DAE c/o ASD Sporting Club,,,,,,,40.3463355,18.1784907,,,,,,,,2026-04-05
-3951426535,node,https://www.openstreetmap.org/node/3951426535,defibrillatore DAE c/o succursale Liceo Magistrale Siciliani,,,,,,,40.3474668,18.1645702,,,,,,,,2026-04-05
-3957927446,node,https://www.openstreetmap.org/node/3957927446,Postazione defibrillatore DAE c/o Campo CONI,,,,,,,40.3661953,18.177076,,,,,,,,2026-04-05
-3957973742,node,https://www.openstreetmap.org/node/3957973742,postazione defibrillatore DAE c/o GYM POINT,,,,,,,40.3567243,18.1902124,,,,,,,,2026-04-05
-3957984117,node,https://www.openstreetmap.org/node/3957984117,Postazione defibrillatore DAE c/o Uffici CONI,,,,,,,40.3582437,18.1674785,,,,,,,,2026-04-05
-3970776927,node,https://www.openstreetmap.org/node/3970776927,defibrillatore DAE c/o Punto ENEL,,,,,,,40.3559935,18.2000288,,,,,,,,2026-04-05
-4003067643,node,https://www.openstreetmap.org/node/4003067643,defibrillatore DAE c/o Istituto De Pace,,,,,,,40.3445706,18.1724833,,,,,,,,2026-04-05
-4056187700,node,https://www.openstreetmap.org/node/4056187700,defibrillatore DAE c/o Scuola Media Stomeo Zimbalo,,,,,,,40.3629523,18.1991101,,,,,,,,2026-04-05
-4056193544,node,https://www.openstreetmap.org/node/4056193544,defibrillatore DAE c/o Circolo IppicoIl Dirupo,,,,,,,40.3280107,18.1360854,,,,,,,,2026-04-05
-4152769399,node,https://www.openstreetmap.org/node/4152769399,,,,,,,,40.3870247,18.3042592,,,,,,,,2026-04-05
-4152789380,node,https://www.openstreetmap.org/node/4152789380,defibrillatore c/o Lido Turrisi,,,,,,,40.3911358,18.3055254,,,,,,,,2026-04-05
-4152790428,node,https://www.openstreetmap.org/node/4152790428,,,,,,,,40.3918738,18.3048301,,,,,,,,2026-04-05
-4152810489,node,https://www.openstreetmap.org/node/4152810489,,Available during summer,,,,,,40.3929733,18.3032911,,,,,,,,2026-04-05
-4152811373,node,https://www.openstreetmap.org/node/4152811373,,Available during summer,,,,,,40.3933778,18.3022397,,,,,,,,2026-04-05
-4152818577,node,https://www.openstreetmap.org/node/4152818577,,,,,,,,40.3959302,18.2981568,,,,,,,,2026-04-05
-4152850048,node,https://www.openstreetmap.org/node/4152850048,,,,,,,,40.4301,18.2528825,,,,,,,,2026-04-05
-4152851226,node,https://www.openstreetmap.org/node/4152851226,,,,,,,,40.4285587,18.2540488,,,,,,,,2026-04-05
-4152855915,node,https://www.openstreetmap.org/node/4152855915,,,,,,,,40.4305049,18.2525851,,,,,,,,2026-04-05
-4152867148,node,https://www.openstreetmap.org/node/4152867148,,,,,,,,40.437637,18.2483361,,,,,,,,2026-04-05
-4152867699,node,https://www.openstreetmap.org/node/4152867699,,,,,,,,40.4510463,18.2263061,,,,,,,,2026-04-05
-4152868151,node,https://www.openstreetmap.org/node/4152868151,,,,,,,,40.4681134,18.1888702,,,,,,,,2026-04-05
-4152873789,node,https://www.openstreetmap.org/node/4152873789,,,,,,,,40.4674296,18.194589,,,,,,,,2026-04-05
-4152881689,node,https://www.openstreetmap.org/node/4152881689,,,,,,,,40.467717,18.1928173,,,,,,,,2026-04-05
-4153002816,node,https://www.openstreetmap.org/node/4153002816,,,,,,,,40.4696044,18.1841701,,,,,,,,2026-04-05
-4153011643,node,https://www.openstreetmap.org/node/4153011643,,,,,,,,40.4692115,18.1855403,,,,,,,,2026-04-05
-4153024504,node,https://www.openstreetmap.org/node/4153024504,Defibrillatore c/o Villaggio Club,,,,,,,40.4850326,18.1460729,,,,,,,,2026-04-05
-4153251541,node,https://www.openstreetmap.org/node/4153251541,,,,,,,,40.4688838,18.1863921,,,,,,,,2026-04-05
-4165143189,node,https://www.openstreetmap.org/node/4165143189,,,,,,,,40.4309529,18.2522121,,,,,,,,2026-04-05
-4167008289,node,https://www.openstreetmap.org/node/4167008289,defibrillatore c/o IISS Costa,,,,,,,40.3538766,18.1748729,,,,,,yes,,2026-04-05
-4176170403,node,https://www.openstreetmap.org/node/4176170403,defibrillatore c/o Istituto Comprensivo A. Galateo - Frigole,,,,,,,40.3637086,18.1701064,,,,,,,,2026-04-05
-4176173892,node,https://www.openstreetmap.org/node/4176173892,"defibrillatore c/o palestra ""Il Cerchio""",,,,,,,40.3581495,18.1598217,,,,,,,,2026-04-05
-4216845007,node,https://www.openstreetmap.org/node/4216845007,defibrillatore DAE c/o Poligono di Tiro,,,,,,,40.3391298,18.1643026,,,,,,,,2026-04-05
-4216854737,node,https://www.openstreetmap.org/node/4216854737,defibrillatore dae c/o Out Line,,,,,,,40.3852883,18.1685557,,,,,,,,2026-04-05
-4252919767,node,https://www.openstreetmap.org/node/4252919767,IISS Enrico Medi,,,,,,,40.1450121,18.0757872,,,,,,,,2026-04-05
-4253006503,node,https://www.openstreetmap.org/node/4253006503,Photoworld.it,"DAE del progetto ""Paese Cardioprotetto"" dell'associazione Eso es Palinuro",Indipendenza,250,,,,40.0419748,15.2896595,24/7,,,,,no,0,2026-04-05
-4253006504,node,https://www.openstreetmap.org/node/4253006504,Villaggio degli Olivi,,,,,,,40.0375075,15.286724,24/7,,,,,yes,0,2026-04-05
-4253006505,node,https://www.openstreetmap.org/node/4253006505,Camping Internazionale Saline,,,,,,,40.047894,15.2841758,24/7,,,,,yes,0,2026-04-05
-4253006607,node,https://www.openstreetmap.org/node/4253006607,Guardia Costiera - Ufficio Circondariale Marittimo di Palinuro,,,,,,,40.0296559,15.2753801,24/7,,,,,yes,0,2026-04-05
-4253006608,node,https://www.openstreetmap.org/node/4253006608,Scuola P.Virgilio Marone,,,,,,,40.0362802,15.2867555,,,,,,yes,0,2026-04-05
-4253006717,node,https://www.openstreetmap.org/node/4253006717,Marinella Il Lido,"DAE del progetto ""Paese Cardioprotetto"" dell'associazione Eso es Palinuro",,,,,,40.0294171,15.2970167,sunrise-sunset,,,,,,,2026-04-05
-4253006906,node,https://www.openstreetmap.org/node/4253006906,Grand Hotel San Pietro,,,,,,,40.037147,15.2865412,24/7,,,,,yes,-3,2026-04-05
-4256157333,node,https://www.openstreetmap.org/node/4256157333,,,Largo San Girolamo,,Castrovillari,87012,,39.8207285,16.209566,,,,,,,,2026-04-05
-4256164104,node,https://www.openstreetmap.org/node/4256164104,,,,,,,,39.8124929,16.201762,,,,,,,,2026-04-05
-4256168967,node,https://www.openstreetmap.org/node/4256168967,Defibrillatore,,,,,,,39.8153216,16.2072981,,,,,,,,2026-04-05
-4256171411,node,https://www.openstreetmap.org/node/4256171411,,,,,,,,39.8275827,16.23616,,,,,,,,2026-04-05
-4256171723,node,https://www.openstreetmap.org/node/4256171723,Defibrillatore,,Via Nazionale delle Vigne,,Castrovillari,87012,,39.7376315,16.2682969,,,,,,,,2026-04-05
-4256173182,node,https://www.openstreetmap.org/node/4256173182,Defibrillatore,,Via Nazionale delle Vigne,,Castrovillari,87012,,39.7882839,16.23984,,,,,,,,2026-04-05
-4256191143,node,https://www.openstreetmap.org/node/4256191143,Farmacia Giannoni,,Via Roma,,Castrovillari,87012,,39.8134589,16.2044617,,,,,,yes,,2026-04-05
-4256488285,node,https://www.openstreetmap.org/node/4256488285,Defibrillatore,,Corso Calabria,,Castrovillari,87012,,39.8237731,16.1928922,,,,,,,,2026-04-05
-4258509302,node,https://www.openstreetmap.org/node/4258509302,DAE INPS,,,,,,,40.3439352,18.1723758,,,,,,,,2026-04-05
-4259936144,node,https://www.openstreetmap.org/node/4259936144,DAE c/o Istituto Tecnico Commerciale Olivetti,,,,,,,40.3444279,18.1857012,,,,,,,,2026-04-05
-4260581134,node,https://www.openstreetmap.org/node/4260581134,Defibrillatore,,Via San Francesco d'Assisi,,Castrovillari,87012,,39.8086812,16.209581,,,,,,,,2026-04-05
-4260759382,node,https://www.openstreetmap.org/node/4260759382,,,Querce,,Castrovillari,87012,,39.8244154,16.2099853,,,,,,,,2026-04-05
-4260764518,node,https://www.openstreetmap.org/node/4260764518,Defibrillatore,,,,,,,39.8215716,16.2308087,,,,,,,,2026-04-05
-4262405258,node,https://www.openstreetmap.org/node/4262405258,Defibrillatore DAE della ASD Colò,,Contrada Li Mori,,Lizzanello,,,40.314787,18.2319439,,,,,,,,2026-04-05
-4275412875,node,https://www.openstreetmap.org/node/4275412875,Defibrillatore 24h,,Via Augusto Imperatore,37,Lecce,73100,LE,40.3520675,18.1715484,,,,,,,,2026-04-05
-4277206377,node,https://www.openstreetmap.org/node/4277206377,DAE c/o Camping La Vecchia Torre,,,,,,,40.0824906,18.0109349,,,,,,,,2026-04-05
-4277736091,node,https://www.openstreetmap.org/node/4277736091,DAE presso Centro Biolab,,Via Siracusa,,Cutrofiano,73020,LE,40.125881,18.206916,,,,,,,,2026-04-05
-4278411735,node,https://www.openstreetmap.org/node/4278411735,Studio Radiologico Associato di Ruggiero e Maria Luisa Calabrese,Studio radiologico in possesso di defibrillatore.,Strada Provinciale Lecce-Maglie,km 1.5,Cavallino,73020,LE,40.3197049,18.1850568,,,,+39 0832 613111,,yes,,2026-04-05
-4279734149,node,https://www.openstreetmap.org/node/4279734149,Farmacia Mengoli,,Via Soleto,48,Galatina,,,40.1767485,18.1750843,,,,,,,,2026-04-05
-4280449894,node,https://www.openstreetmap.org/node/4280449894,DAE c/o Punto Fisso Beach,,,,,,,40.1014387,18.0121818,,,,,,,,2026-04-05
-4287675260,node,https://www.openstreetmap.org/node/4287675260,Defibrillatore Scuola Media Santi Medici,,Via degli Oleandri,7,Castrovillari,87012,,39.8223781,16.204806,,,,,,,,2026-04-05
-4287678052,node,https://www.openstreetmap.org/node/4287678052,Defibrillatore Scuola Media Enrico De Nicola,,Via Coscile,2,Castrovillari,87012,,39.8164444,16.2069931,,,,,,,,2026-04-05
-4287686881,node,https://www.openstreetmap.org/node/4287686881,Defibrillatore Farmacia d'Atri,,Via Roma,27,Castrovillari,,,39.8125794,16.2030768,,,,,,,,2026-04-05
-4287694280,node,https://www.openstreetmap.org/node/4287694280,Defibrillatore Farmacia Filpo Caterini,,Corso Giuseppe Garibaldi,163,Castrovillari,87012,,39.8112695,16.2038658,,,,,,,,2026-04-05
-4287926935,node,https://www.openstreetmap.org/node/4287926935,,,,,,,,40.2106227,18.4580813,,,,,,,,2026-04-05
-4287934156,node,https://www.openstreetmap.org/node/4287934156,CENTRO PRIMO SOCCORSO ECOTEKNE,,,,,,,40.3352944,18.1169182,,,,,,,,2026-04-05
-4287971350,node,https://www.openstreetmap.org/node/4287971350,Centro Fitness,,,,Carmiano,,,40.3478539,18.0445158,,,,,,,,2026-04-05
-4295699497,node,https://www.openstreetmap.org/node/4295699497,defibrillatore c/o I:C. Ammirato Falcone,,,,,,,40.3371415,18.1766756,,,,,,,,2026-04-05
-4295732680,node,https://www.openstreetmap.org/node/4295732680,defibrillatore c/o Match Point,,,,,,,40.3437026,18.2116447,,,,,,yes,,2026-04-05
-4296237180,node,https://www.openstreetmap.org/node/4296237180,"DAE presso R.S.S.A. ""Santa Rita""",,Via Rocci Perrella,,Alezio,,,40.0583225,18.0580292,,,,,,,,2026-04-05
-4296876921,node,https://www.openstreetmap.org/node/4296876921,DAE presso Vitaldent,,Via Salvatore Trinchese,,Lecce,73100,LE,40.3539767,18.1828293,,,,,,,,2026-04-05
-4300538828,node,https://www.openstreetmap.org/node/4300538828,DAE presso Texil3,,,,,,,40.0640207,18.1074093,,,,,,,,2026-04-05
-4304097071,node,https://www.openstreetmap.org/node/4304097071,DAE presso Lido Verde,,Via Vespucci,,Vernole,,,40.3794317,18.3090217,,,,,,,,2026-04-05
-4310936904,node,https://www.openstreetmap.org/node/4310936904,Defibrillatore all'interno della Farmacia D'Atri,,,,,,,39.8125883,16.2030644,,,,,,,,2026-04-05
-4316126951,node,https://www.openstreetmap.org/node/4316126951,DAE c/o Istituto Comprensivo Dante Alighieri - Armando Diaz,,,,,,,40.3527351,18.1639688,,,,,,,,2026-04-05
-4324995910,node,https://www.openstreetmap.org/node/4324995910,,,,,,,,40.5011221,18.1183724,,,,,,,,2026-04-05
-4325276208,node,https://www.openstreetmap.org/node/4325276208,Defibrillatore DAE presso Hotel La Perla,,,,,,,40.5013929,18.117348,,,,,,,,2026-04-05
-4327146486,node,https://www.openstreetmap.org/node/4327146486,Defibrillatore DAE presso Campo sportivo comunale,,Via Cellino,,Campi Salentina,,,40.4055623,18.0204427,,,,,,,,2026-04-05
-4327151569,node,https://www.openstreetmap.org/node/4327151569,Defibrillatore DAE presso Palazzetto dello sport,,Via Guglielmo Marconi,,Campi Salentina,,,40.3948509,18.0295515,,,,,,,,2026-04-05
-4327167708,node,https://www.openstreetmap.org/node/4327167708,Defibrillatore DAE presso Cliocom,,,,,,,40.3520505,18.1828085,,,,,,,,2026-04-05
-4332220256,node,https://www.openstreetmap.org/node/4332220256,Defibrillatore DAE presso Maneggio Complesso delle Rose,,Strada Provinciale Morciano - Torre Vado,,Morciano di Leuca,,,39.8410599,18.2933354,,,,,,,,2026-04-05
-4333654446,node,https://www.openstreetmap.org/node/4333654446,Defibrillatore DAE presso Darsena Punta del Sol,,Litoranea Sant'Isidoro,,Porto Cesareo,,,40.2526937,17.9080897,,,,,,,,2026-04-05
-4338138486,node,https://www.openstreetmap.org/node/4338138486,,,,,Melendugno,,,40.3090479,18.3956454,,,,,,,,2026-04-05
-4349042759,node,https://www.openstreetmap.org/node/4349042759,,,,,,,,40.2764551,15.7025543,,,,,,,,2026-04-05
-4361621664,node,https://www.openstreetmap.org/node/4361621664,Defibrillatore DAE presso Lido Bar Moro,,,,,,,39.8135721,18.3108139,,,,,,,,2026-04-05
-4378819640,node,https://www.openstreetmap.org/node/4378819640,postazione dae c/o Lido Molo 13,,,,,,,40.425764,18.2565181,,,,,,,,2026-04-05
-4379138785,node,https://www.openstreetmap.org/node/4379138785,Dae c/o Scuola S. Castromediano,,,,,,,40.3385692,18.1808799,,,,,,,,2026-04-05
-4387279025,node,https://www.openstreetmap.org/node/4387279025,DAE c/o Fiera del Levante 3,,,,,,,41.1353109,16.8364477,,,,,,,,2026-04-05
-4387298872,node,https://www.openstreetmap.org/node/4387298872,DAE c/o Fiera del Levante 2,,,,,,,41.1370926,16.8373114,,,,,,,,2026-04-05
-4387299110,node,https://www.openstreetmap.org/node/4387299110,DAE c/o Fiera del Levante 1,,,,,,,41.1368219,16.8363511,,,,,,,,2026-04-05
-4387300108,node,https://www.openstreetmap.org/node/4387300108,DAE c/o Fiera del Levante 9,,,,,,,41.1354199,16.8391031,,,,,,,,2026-04-05
-4387300346,node,https://www.openstreetmap.org/node/4387300346,DAE c/o Fiera del Levante 5,,,,,,,41.1359845,16.8387783,,,,,,,,2026-04-05
-4387300659,node,https://www.openstreetmap.org/node/4387300659,DAE c/o Fiera del Levante 4,,,,,,,41.1369148,16.839779,,,,,,,,2026-04-05
-4387301298,node,https://www.openstreetmap.org/node/4387301298,DAE c/o Fiera del Levante 6,,,,,,,41.1363924,16.8407827,,,,,,,,2026-04-05
-4387301877,node,https://www.openstreetmap.org/node/4387301877,DAE c/o Fiera del Levante 8,,,,,,,41.1352018,16.8423003,,,,,,,,2026-04-05
-4387302876,node,https://www.openstreetmap.org/node/4387302876,DAE c/o Fiera del Levante 7,,,,,,,41.1343129,16.8399936,,,,,,,,2026-04-05
-4399071731,node,https://www.openstreetmap.org/node/4399071731,postazione dae c/o Interfrutta  Z.I. zona 3 celeste Lecce,,,,,,,40.3778954,18.1298536,,,,,,,,2026-04-05
-4417808429,node,https://www.openstreetmap.org/node/4417808429,Defibrillatore DAE presso Studio Dentistico Ass. Marzano Petrillo,,Via Torquato Tasso,1,Nardò,,,40.1761728,18.0331942,,,,,,,,2026-04-05
-4418937492,node,https://www.openstreetmap.org/node/4418937492,DAE presso Farmacia Migali,,,,,,,40.3608395,18.1806765,,,,,,,,2026-04-05
-4419397463,node,https://www.openstreetmap.org/node/4419397463,Postazione dae c/o studio dentistico Petrillo,,,,,,,40.3545986,18.1779104,,,,,,,,2026-04-05
-4429378164,node,https://www.openstreetmap.org/node/4429378164,,,,,,,,40.5318708,17.5940073,,permissive,,,,,,2026-04-05
-4429402443,node,https://www.openstreetmap.org/node/4429402443,posta centrale,,,,,,,40.532897,17.5849367,,,,,,,,2026-04-05
-4429404913,node,https://www.openstreetmap.org/node/4429404913,Piazzale Dimitri,,,,,,,40.5272903,17.5835217,,,,,,no,,2026-04-05
-4443270686,node,https://www.openstreetmap.org/node/4443270686,Studio Dentistico GALZ,,Via Cairoli,4,Borgagne,,,40.2400099,18.378765,,,,,,,,2026-04-05
-4456008283,node,https://www.openstreetmap.org/node/4456008283,postazione dae c/o Studio Dentistico Calò,,,,,,,40.3532803,18.1675378,,,,,,,,2026-04-05
-4458736317,node,https://www.openstreetmap.org/node/4458736317,studio dentistico Primo,,Viale Liguria,85,Taranto,,,40.4578339,17.2621585,,,,,,,,2026-04-05
-4483537657,node,https://www.openstreetmap.org/node/4483537657,,,,,,,,40.7230571,17.5793328,,,,,,,,2026-04-05
-4487644989,node,https://www.openstreetmap.org/node/4487644989,,,,,,,,40.6053596,17.2310857,,,,,,,,2026-04-05
-4492626789,node,https://www.openstreetmap.org/node/4492626789,Comunità Emmanuel Ariasana Villa Maria,,Via Pozzillo San Rocco,,Arnesano,,,40.3391154,18.0976751,,,,,,,,2026-04-05
-4493773085,node,https://www.openstreetmap.org/node/4493773085,"defibrillatore c/o Comunità Emmanuel ""Le Sorgenti ISMS""",,,,,,,40.358065,18.1181601,,,,,,,,2026-04-05
-4493774755,node,https://www.openstreetmap.org/node/4493774755,defibrillatore c/o Comunità Emmanuel Centro Base Villa Marsello Strda Provle Lecce Novoli 49,,,,,,,40.3605497,18.1012532,,,,,,,,2026-04-05
-4494121193,node,https://www.openstreetmap.org/node/4494121193,defibrillatore c/o residenza universitaria ADISU Lecce,,,,,,,40.3476499,18.1647116,,,,,,yes,,2026-04-05
-4494125967,node,https://www.openstreetmap.org/node/4494125967,DAE presso LAICA,,,,,,,40.3536488,18.1945798,,,,,,,,2026-04-05
-4526181880,node,https://www.openstreetmap.org/node/4526181880,DAE presso RSSA Prof G. Cucurachi Athena,,Via Salvo D'Acquisto,25,Calimera,,,40.2496602,18.2809665,,,,,,,,2026-04-05
-4552087350,node,https://www.openstreetmap.org/node/4552087350,postazione dae c/o Palestra Excite,,,,,,,40.3609655,18.1578966,,,,,,yes,,2026-04-05
-4552099584,node,https://www.openstreetmap.org/node/4552099584,postazione dae c/o Palestra Excite,,,,,,,40.3447211,18.1825795,,,,,,,,2026-04-05
-4563543927,node,https://www.openstreetmap.org/node/4563543927,,,,,,,,40.0337806,15.2885484,,,,,,,,2026-04-05
-4582855353,node,https://www.openstreetmap.org/node/4582855353,,,,,,,,40.2175975,14.9934213,,,,,,no,,2026-04-05
-4587506929,node,https://www.openstreetmap.org/node/4587506929,postazione dae c/o Istituto Marcelline,,,,,,,40.3488895,18.1741509,,,,,,,,2026-04-05
-4674128829,node,https://www.openstreetmap.org/node/4674128829,Dae McDonald's,,,,,,,40.3537256,18.1768031,,,,,,,,2026-04-05
-4702288101,node,https://www.openstreetmap.org/node/4702288101,Polo 1 Istituto comprensivo Michele Montinari,,,,,,,40.1735831,18.1657373,,,,,,,,2026-04-05
-4702295600,node,https://www.openstreetmap.org/node/4702295600,Polo 2 Istituto comprensivo,,,,,,,40.1665807,18.1604298,,,,,,,,2026-04-05
-4702297498,node,https://www.openstreetmap.org/node/4702297498,Polo 3 Istituto comprensivo,,,,,,,40.1764997,18.1772611,,,,,,,,2026-04-05
-4702300982,node,https://www.openstreetmap.org/node/4702300982,"Studio medico associato Candido, Galluccio, Maggio, Mauro",,,,,,,40.1754756,18.1742233,,,,,,,,2026-04-05
-4776721748,node,https://www.openstreetmap.org/node/4776721748,postazione dae c/o centro sportivo Kolbe,,,,,,,40.367024,18.196739,,,,,,,,2026-04-05
-4784595530,node,https://www.openstreetmap.org/node/4784595530,,,,,,,,40.6186893,17.902189,,,,,,yes,,2026-04-05
-4877394721,node,https://www.openstreetmap.org/node/4877394721,defibrillatore c/o Tribunale per i minorenni,,,,,,,40.351552,18.1627386,,,,,,,,2026-04-05
-4882920839,node,https://www.openstreetmap.org/node/4882920839,postazione dae c/o scuola di danza in punta di piedi,,,,,,,40.3583546,18.1788399,,,,,,,,2026-04-05
-4951628283,node,https://www.openstreetmap.org/node/4951628283,DAE c/o Torre Castiglione Camping,,,,,,,40.2917671,17.8186681,,,,,,,,2026-04-05
-5005222108,node,https://www.openstreetmap.org/node/5005222108,Spinazzola,,,,,,,40.9736662,16.084249,,,,,,,,2026-04-05
-5006005410,node,https://www.openstreetmap.org/node/5006005410,Defibrillatore - Farmacia D'Innella,Defibrillatore Semiautomatico Fred Easy on-line,"Corso Umberto I, SP 230",72,Spinazzola,,,40.9681691,16.0907376,,,,+39 0883 681286,,yes,,2026-04-05
-5006005411,node,https://www.openstreetmap.org/node/5006005411,"Defibrillatore - Farmacia Rinella, Spinazzola",Defibrillatore Semiautomatico Fred Easy on-line Serial Nr. : 30003029,,,,,,40.968957,16.0883531,,,,+39 0883 681337,,yes,,2026-04-05
-5012391714,node,https://www.openstreetmap.org/node/5012391714,"Defibrillatore - Ufficio Polizia Municipale, Spinazzola",Defibrillatore Semiautomatico Fred Easy on-line Serial Nr. : 30003080,Via Cairoli,1,Spinazzola,76014,BT,40.9694289,16.0897756,,,,+39 0883 681114,,yes,,2026-04-05
-5012391715,node,https://www.openstreetmap.org/node/5012391715,"Defibrillatore - Istituto Comprensivo ""Mazzini-De Cesare""",,Via Nazario Sauro,2,Spinazzola,76014,BT,40.9692738,16.0884927,,,,+39 0883 681347,,yes,,2026-04-05
-5083563583,node,https://www.openstreetmap.org/node/5083563583,DAE presso Farmacia De Pace Licignano,,,,,,,40.3520898,18.1810449,,,,,,,,2026-04-05
-5099348396,node,https://www.openstreetmap.org/node/5099348396,,Palestra INFORMA GYM & FITNESS Spinazzola,Galleria Mirenzi,,Spinazzola,76014,BT,40.9684015,16.0881517,Mo-Su 10:00-22:00,private,,+39 0883 766653,,yes,,2026-04-05
-5111136164,node,https://www.openstreetmap.org/node/5111136164,DAE c/o Lido Camillo,,,,,,,40.1479625,18.4873769,,,,,,,,2026-04-05
-5126191131,node,https://www.openstreetmap.org/node/5126191131,DAE c/o 4 Colonne,,,,,,,40.1250547,17.9975006,,,,,,,,2026-04-05
-5185744841,node,https://www.openstreetmap.org/node/5185744841,Defibrillatore Matera_Cardiosicura,,,,,,,40.7219363,16.5803808,,,,,,,,2026-04-05
-5185744842,node,https://www.openstreetmap.org/node/5185744842,Defibrillatore Matera_Cardiosicura,,,,,,,40.6610947,16.5359952,,,,,,,,2026-04-05
-5185744843,node,https://www.openstreetmap.org/node/5185744843,Defibrillatore Matera_Cardiosicura,,,,,,,40.6700665,16.6065246,,,,,,,,2026-04-05
-5185744844,node,https://www.openstreetmap.org/node/5185744844,Defibrillatore Matera_Cardiosicura,,,,,,,40.6650922,16.6067514,,,,,,,,2026-04-05
-5185744845,node,https://www.openstreetmap.org/node/5185744845,Defibrillatore Matera_Cardiosicura,,,,,,,40.6645614,16.6115728,,,,,,,,2026-04-05
-5185744846,node,https://www.openstreetmap.org/node/5185744846,Defibrillatore Matera_Cardiosicura,,,,,,,40.6679043,16.6103614,,,,,,no,,2026-04-05
-5185744847,node,https://www.openstreetmap.org/node/5185744847,Defibrillatore Matera_Cardiosicura,,,,,,,40.666575,16.6022142,,,,,,no,,2026-04-05
-5185744848,node,https://www.openstreetmap.org/node/5185744848,Defibrillatore Matera_Cardiosicura,,,,,,,40.665361,16.6094528,,,,,,,,2026-04-05
-5185744849,node,https://www.openstreetmap.org/node/5185744849,Defibrillatore Matera_Cardiosicura,,,,,,,40.6632798,16.6100857,,,,,,no,,2026-04-05
-5185744850,node,https://www.openstreetmap.org/node/5185744850,Defibrillatore Matera_Cardiosicura,,,,,,,40.6664698,16.6063217,,,,,,,,2026-04-05
-5257597872,node,https://www.openstreetmap.org/node/5257597872,A.S.D. Bianco Team,,,,,,,40.361806,18.2046824,,,,,,,,2026-04-05
-5348646107,node,https://www.openstreetmap.org/node/5348646107,"postazione dae c/o I circolo didattico ""Cesare Battisti""",,,,,,,40.3542818,18.1754379,,,,,,yes,,2026-04-05
-5348659431,node,https://www.openstreetmap.org/node/5348659431,DAE c/o scuola dell'infanzia,,,,,,,40.3555863,18.1873224,,,,,,,,2026-04-05
-5435336818,node,https://www.openstreetmap.org/node/5435336818,,,,,,,,40.6458793,17.5168033,,,,,,,,2026-04-05
-5508453496,node,https://www.openstreetmap.org/node/5508453496,"postazione dae c/o ""UN PASSO VERSO IL SOLE""",,,,,,,40.3624284,18.1829304,,,,,,,,2026-04-05
-5588855626,node,https://www.openstreetmap.org/node/5588855626,,,,,,,,40.5873252,17.1156175,,,,,,,,2026-04-05
-5597905032,node,https://www.openstreetmap.org/node/5597905032,Defibrillatore DAE presso Palestra della Scuola Elementare,,,,,,,40.1496231,18.3178128,,,,,,,,2026-04-05
-5737548491,node,https://www.openstreetmap.org/node/5737548491,DAE 24h,,,,,,,39.9361943,18.1171053,,,,,,,,2026-04-05
-5751852445,node,https://www.openstreetmap.org/node/5751852445,DAE c/o Lido Mania stagionale,,,,,,,39.8592659,18.1622324,,,,,,,,2026-04-05
-5760222509,node,https://www.openstreetmap.org/node/5760222509,,,,,,,,40.5991865,15.5062159,,,,,,,,2026-04-05
-5760222510,node,https://www.openstreetmap.org/node/5760222510,,,,,,,,40.6039317,15.5100349,,,,,,,,2026-04-05
-5760222511,node,https://www.openstreetmap.org/node/5760222511,,,,,,,,40.5996042,15.5070844,,,,,,,,2026-04-05
-5760222512,node,https://www.openstreetmap.org/node/5760222512,,,,,,,,40.5984271,15.5077308,,,,,,,,2026-04-05
-5781412672,node,https://www.openstreetmap.org/node/5781412672,"postazione dae c/o Conservatorio Musicale ""Tito Schipa""",,,,,,,40.3484898,18.1898822,,,,,,,,2026-04-05
-5866432127,node,https://www.openstreetmap.org/node/5866432127,Defibrillatore - DAE,Website: http://www.latronico.eu,,14,Latronico,85043,Potenza,40.087975,16.0106714,24/7,yes,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,0,2026-04-05
-5936341040,node,https://www.openstreetmap.org/node/5936341040,DAE c/o Maybe wellness,,,,,,,40.3383764,18.1764961,,,,,,,,2026-04-05
-5983322881,node,https://www.openstreetmap.org/node/5983322881,DAE presso Istituto Comprensivo Chiarelli,,Via Carmine,4,,,,40.7082821,17.3337735,,,,+39 080 4836566,,yes,,2026-04-05
-5983323223,node,https://www.openstreetmap.org/node/5983323223,DAE presso Circolo S. Allende L’Arcallegra,,Via Bellavista,10,,,,40.710012,17.333126,"Mo-Fr 08:30-12:30,15:00-19:00",,,+39 080 4808021,,,,2026-04-05
-5983323224,node,https://www.openstreetmap.org/node/5983323224,DAE presso ITCG L. Da Vinci (plesso Geometri),,Via Pergolo,58,,,,40.6896224,17.3220897,,,,+39 080 4803653,,,,2026-04-05
-5983323225,node,https://www.openstreetmap.org/node/5983323225,DAE presso I.p.s.s. A. Motolese,,Via Carmine,10,,,,40.7091759,17.333002,,,,+39 080 4831681,,yes,,2026-04-05
-5983323226,node,https://www.openstreetmap.org/node/5983323226,DAE presso Istituto Comprensivo Aosta,,Piazza Vittorio Veneto,6,,,,40.7020683,17.3407144,,,,+39 080 4836507,,,,2026-04-05
-5983323227,node,https://www.openstreetmap.org/node/5983323227,DAE presso Istituto Conprensivo Marconi,,Piazza Marconi,4,,,,40.7011672,17.3391481,,,,+39 080 483 6540,,yes,,2026-04-05
-5983323228,node,https://www.openstreetmap.org/node/5983323228,DAE presso Istituto Comprensivo Grassi,,Viale della Stazione,13,,,,40.7016408,17.3319026,,,,+39 080 4832702,,yes,,2026-04-05
-5983323229,node,https://www.openstreetmap.org/node/5983323229,DAE presso Istituto Comprensivo Giovanni XXIII,,Piazza San Francesco Da Paola,,,,,40.7049209,17.3438007,,,,+39 080 4306778,,,,2026-04-05
-5983323230,node,https://www.openstreetmap.org/node/5983323230,DAE presso Campo Pergolo,,Via Pergolo,,,,,40.6882042,17.3242435,,,,,,,,2026-04-05
-5983323231,node,https://www.openstreetmap.org/node/5983323231,DAE presso Palazzetto dello Sport “Palawojtyla”,,Via Pergolo,,,,,40.6887585,17.3246888,,,,+39 080 4836335,,,,2026-04-05
-5983922091,node,https://www.openstreetmap.org/node/5983922091,DAE di Piazza Plebiscito,,,,,,,40.7056477,17.3365552,24/7,,,,,no,,2026-04-05
-5983922094,node,https://www.openstreetmap.org/node/5983922094,DAE presso stazione di servizio Agip,,Via Papa Leone XIII,,,,,40.6966786,17.339539,,,,,,,,2026-04-05
-5983922095,node,https://www.openstreetmap.org/node/5983922095,DAE presso A.s.d. Red Boys,,Viale Europa,15,,,,40.7045033,17.3443039,,,,,,,,2026-04-05
-5983922096,node,https://www.openstreetmap.org/node/5983922096,DAE presso CRI Comitato di Martina Franca,,Viale Europa,88bis,,,,40.7039015,17.3448771,,,,+39 080 4831627,,,,2026-04-05
-5983922097,node,https://www.openstreetmap.org/node/5983922097,DAE presso Nucleo Protezione Civile Associazione Nazionale Carabinieri,,Via Pietro Scialpi,,,,,40.7014423,17.3411079,,,,,,,,2026-04-05
-5983922100,node,https://www.openstreetmap.org/node/5983922100,DAE presso CAV Coordinamento Associazioni di Volontariato,,Via Mottola,1b,,,,40.7055642,17.3309248,"08:30-12:30,17:00-23:00",,,,,,,2026-04-05
-5983922101,node,https://www.openstreetmap.org/node/5983922101,DAE presso AIA Club e Comitato Uisp Valle d’Itria,,Via Santa Maria Domenica Mazzarello,,,,,40.7014754,17.3291388,Mo-Fr 16:00-20:00,,,+39 080 2376243,,,,2026-04-05
-5983922134,node,https://www.openstreetmap.org/node/5983922134,DAE presso La Palestra,,Corso dei Mille,184,,,,40.7033034,17.3315666,Mo-Fr 09:00-22:00; Sa 09:00-19:00,,,+39 080 4834704,,,,2026-04-05
-5983922140,node,https://www.openstreetmap.org/node/5983922140,Polisportiva Arci Martina,,Via Giuseppe Chiarelli,18,,,,40.697588,17.3449274,"Mo,We,Fr 09:30-21:30,15:00-21:30; Tu,Th 09:30-12:30,15:00-21:30",,,+39 080 4805759,,,,2026-04-05
-5983922161,node,https://www.openstreetmap.org/node/5983922161,DAE di Piazza XX Settembre,,Piazza XX Settembre,,,,,40.7043445,17.3401278,24/7,,,,,yes,,2026-04-05
-5983922166,node,https://www.openstreetmap.org/node/5983922166,DAE presso Scuola Elementare San Paolo,,,,,,,40.6428298,17.3201873,,,,+39 080 4490012,,,,2026-04-05
-6006707497,node,https://www.openstreetmap.org/node/6006707497,Dae Castello Carlo V Info Point,,,,,,,40.352378,18.1744482,,,,,,yes,,2026-04-05
-6045646248,node,https://www.openstreetmap.org/node/6045646248,DAE presso Crossfit Sud ASD,,,,,,,40.3490106,18.1499283,,,,,,,,2026-04-05
-6121273884,node,https://www.openstreetmap.org/node/6121273884,DAE 24H,,,,,,,40.1470567,18.0703005,,,,,,no,,2026-04-05
-6123050070,node,https://www.openstreetmap.org/node/6123050070,,,,,,,,40.5747264,15.7843331,,,,,,yes,,2026-04-05
-6123078325,node,https://www.openstreetmap.org/node/6123078325,,,,,,,,40.5664262,15.7692515,,,,,,,,2026-04-05
-6352388243,node,https://www.openstreetmap.org/node/6352388243,DAE 24h c/o Torre Normanna Sveva,,,,,,,40.7412506,17.425635,,,,,,,,2026-04-05
-6361849770,node,https://www.openstreetmap.org/node/6361849770,DAE c/o Unibas,,,,,,,40.6323329,15.8080912,,,,,,,,2026-04-05
-6378870916,node,https://www.openstreetmap.org/node/6378870916,postazione dae presso Campus ECOTEKNE College ISUFI,,,,,,,40.3369487,18.1240799,,,,,,,,2026-04-05
-6378881722,node,https://www.openstreetmap.org/node/6378881722,postazione dae presso Rettorato Università del Salento,,,,,,,40.3497084,18.1672741,,,,,,yes,,2026-04-05
-6378893162,node,https://www.openstreetmap.org/node/6378893162,postazione dae presso Università del Salento sede ex Sperimentale Tabacchi,,,,,,,40.3584422,18.168113,,,,,,,,2026-04-05
-6378906806,node,https://www.openstreetmap.org/node/6378906806,postazione dae presso Università del salento sede EDIFICIO  STUDIUM 6,,,,,,,40.3585204,18.166251,,,,,,,,2026-04-05
-6379323570,node,https://www.openstreetmap.org/node/6379323570,postazione dae presso Campus ECOTEKNE Edificio Centro Congressi,,,,,,,40.3348284,18.1173953,,,,,,,,2026-04-05
-6433916294,node,https://www.openstreetmap.org/node/6433916294,Defibrillatore - DAE,,Calda di Latronico,,Latronico,85043,Potenza,40.0850333,15.9832142,24/7,,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,,2026-04-05
-6433924396,node,https://www.openstreetmap.org/node/6433924396,Defibrillatore - DAE,,Via Provinciale - Mileo,,Agromonte Mileo,85043,Potenza,40.0587759,16.0304592,24/7,,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,,2026-04-05
-6485984549,node,https://www.openstreetmap.org/node/6485984549,,,,,,,,40.6341075,17.9429632,,,,,,,,2026-04-05
-6517744395,node,https://www.openstreetmap.org/node/6517744395,DAE 24h c/o Scuola Elementare,,,,,,,40.4751455,15.8473197,,,,,,,,2026-04-05
-6581274197,node,https://www.openstreetmap.org/node/6581274197,,,,,,,,40.3266118,18.0977247,,,,,,yes,,2026-04-05
-6681694500,node,https://www.openstreetmap.org/node/6681694500,DAE Farmacia Scardia,,,,,,,39.930902,18.3572586,,,,,,yes,,2026-04-05
-6708592591,node,https://www.openstreetmap.org/node/6708592591,Dae c/o Lido Beija-Flor,,,,,,,40.1397206,17.9843097,,,,,,,,2026-04-05
-6779563385,node,https://www.openstreetmap.org/node/6779563385,,,,,,,,39.8141065,15.7919695,,,,,,,,2026-04-05
-6779677952,node,https://www.openstreetmap.org/node/6779677952,,,,,,,,40.0561215,17.9926441,,,Città di Gallipoli,,2,,,2026-04-05
-6838291846,node,https://www.openstreetmap.org/node/6838291846,DAE presso MUV,,Via Vittorio Bachelet,,Lecce,73100,LE,40.3580481,18.1971522,Mo-Fr 07:30-22:00; Sa 09:00-19:00; Su 09:00-13:00,,,,,,,2026-04-05
-6843853810,node,https://www.openstreetmap.org/node/6843853810,DAE presso Farmacia Moschettini,,Viale della Libertà,61,Lecce,73100,LE,40.3568949,18.1856837,,,,,,,,2026-04-05
-6898409443,node,https://www.openstreetmap.org/node/6898409443,DAE Proloco Melfi,,,,,,,40.9963999,15.6557411,,,,,,,,2026-04-05
-6982484547,node,https://www.openstreetmap.org/node/6982484547,,,Piazza Vittorio Emanuele II,,Brindisi,,,40.6395965,17.9481331,,,,,,no,,2026-04-05
-7017581829,node,https://www.openstreetmap.org/node/7017581829,,,,,,,,39.9748946,18.3250402,,,,,,,,2026-04-05
-7319717846,node,https://www.openstreetmap.org/node/7319717846,DAE presso Farmacia Ferocino,,,,,,,40.3528566,18.1731313,,,,,,yes,,2026-04-05
-7326395325,node,https://www.openstreetmap.org/node/7326395325,DAE presso Farmacia Elia,,,,,,,40.3437643,18.1750358,,,,,,,,2026-04-05
-7330112385,node,https://www.openstreetmap.org/node/7330112385,DAE presso Farmacia Messa,,,,,,,40.3591565,18.1927872,,,,,,,,2026-04-05
-7330112387,node,https://www.openstreetmap.org/node/7330112387,DAE presso Farmacia De Pascalis,,,,,,,40.3518257,18.1618978,,,,,,,,2026-04-05
-7815429190,node,https://www.openstreetmap.org/node/7815429190,Istituto comprensivo Eleonora Duse - Sede centrale,,,,,,,41.1361167,16.8157082,,,Istituto Comprensivo Eleonora Duse,,,yes,,2026-04-05
-7817347189,node,https://www.openstreetmap.org/node/7817347189,,,,,,,,40.7325197,17.5779958,,,,,,,,2026-04-05
-7840247144,node,https://www.openstreetmap.org/node/7840247144,Defibrillatore Papeete,,,,,,,39.836501,18.22912,,,,,,,,2026-04-05
-7840552206,node,https://www.openstreetmap.org/node/7840552206,,,,,,,,39.8358421,18.2326412,,,,,,,,2026-04-05
-7859611001,node,https://www.openstreetmap.org/node/7859611001,,,,,,,,40.7840394,17.2374421,,,,,,,,2026-04-05
-7862974213,node,https://www.openstreetmap.org/node/7862974213,,,,,,,,40.7527143,17.3309543,,,,,,no,,2026-04-05
-8095206138,node,https://www.openstreetmap.org/node/8095206138,,,,,,,,41.5105537,15.3306938,,,,,,no,,2026-04-05
-8349607402,node,https://www.openstreetmap.org/node/8349607402,,,,,,,,41.3088252,16.2655332,,,,,,,,2026-04-05
-8677521217,node,https://www.openstreetmap.org/node/8677521217,,,,,,,,41.2325862,16.4982275,,,,,,no,,2026-04-05
-8694442104,node,https://www.openstreetmap.org/node/8694442104,,,,,,,,41.2396316,16.5017151,,,,,,no,,2026-04-05
-8707464186,node,https://www.openstreetmap.org/node/8707464186,Laboratorio Anlisi R.AN.A.,,,,,,,41.2383209,16.5006347,,,,,,yes,,2026-04-05
-9044281343,node,https://www.openstreetmap.org/node/9044281343,,,,,,,,40.9533959,17.3033429,,,,,,no,,2026-04-05
-9076551555,node,https://www.openstreetmap.org/node/9076551555,,,,,,,,41.1167014,16.5805798,,,,,,no,,2026-04-05
-9230547594,node,https://www.openstreetmap.org/node/9230547594,,,,,,,,41.7084461,15.7050595,,,,,,,0,2026-04-05
-9267530218,node,https://www.openstreetmap.org/node/9267530218,,,,,,,,40.9513014,17.3020729,24/7,,,,,no,0,2026-04-05
-9269877617,node,https://www.openstreetmap.org/node/9269877617,,,,,,,,40.7546541,17.3270489,24/7,yes,,,,,0,2026-04-05
-9271937793,node,https://www.openstreetmap.org/node/9271937793,,,,,,,,40.9938967,17.2285395,,,,,,,,2026-04-05
-9280249254,node,https://www.openstreetmap.org/node/9280249254,,,,,,,,40.9536772,17.3014212,,,,,,yes,,2026-04-05
-9442384411,node,https://www.openstreetmap.org/node/9442384411,,,,,,,,40.7004866,17.34369,,,,,,,,2026-04-05
-9442409094,node,https://www.openstreetmap.org/node/9442409094,,,,,,,,40.7053975,17.3395747,Mo-Su 07:00-20:30,,,,,yes,,2026-04-05
-9453640749,node,https://www.openstreetmap.org/node/9453640749,,,,,,,,40.3347615,18.2971957,,,,,,no,,2026-04-05
-9487465531,node,https://www.openstreetmap.org/node/9487465531,,,,,,,,40.3190841,18.2804819,,,,,,,,2026-04-05
-9561056782,node,https://www.openstreetmap.org/node/9561056782,,,,,,,,40.6964432,17.3437119,,,,,,no,,2026-04-05
-9566468715,node,https://www.openstreetmap.org/node/9566468715,DAE Farmacia Comunale,,,,,,,39.983491,18.2479304,,,,,,,,2026-04-05
-9639574456,node,https://www.openstreetmap.org/node/9639574456,DAE c/o Scuola Ungaretti,,,,,,,41.129914,16.7837151,,,,,,yes,,2026-04-05
-9663284074,node,https://www.openstreetmap.org/node/9663284074,DAE c/o IISS Dell'Erba,,,,,,,40.8851579,17.1612957,,,,,,yes,,2026-04-05
-9674996069,node,https://www.openstreetmap.org/node/9674996069,,,,,,,,40.5854474,17.1120638,,,,,,,,2026-04-05
-9675591411,node,https://www.openstreetmap.org/node/9675591411,,,,,,,,40.3219212,17.571754,,,,,,no,,2026-04-05
-9690454593,node,https://www.openstreetmap.org/node/9690454593,,,,,,,,41.1173683,16.487258,,,,,,,,2026-04-05
-9708646955,node,https://www.openstreetmap.org/node/9708646955,,,,,,,,40.4037062,17.5571263,,,,,,,,2026-04-05
-9708646961,node,https://www.openstreetmap.org/node/9708646961,,,,,,,,40.3992434,17.6352834,,,,,,no,,2026-04-05
-9716271663,node,https://www.openstreetmap.org/node/9716271663,,,,,,,,40.2035938,18.302006,,,,,,,,2026-04-05
-9716271696,node,https://www.openstreetmap.org/node/9716271696,,,,,,,,40.1758327,18.2968558,,,,,,,,2026-04-05
-9717428699,node,https://www.openstreetmap.org/node/9717428699,,,,,,,,40.2194937,18.2255182,,,,,,,,2026-04-05
-9721015982,node,https://www.openstreetmap.org/node/9721015982,,,,,,,,40.2662854,18.1835273,,,,,,,,2026-04-05
-9721102446,node,https://www.openstreetmap.org/node/9721102446,,,,,,,,40.2586987,17.8906058,,,,,,,,2026-04-05
-9721901686,node,https://www.openstreetmap.org/node/9721901686,,,,,,,,41.998248,14.9855082,,,,,,,,2026-04-05
-9723713392,node,https://www.openstreetmap.org/node/9723713392,,,,,,,,41.1863501,16.6680456,,,,,,,,2026-04-05
-9726046705,node,https://www.openstreetmap.org/node/9726046705,,,,,,,,41.013767,17.1926042,,yes,,,,,,2026-04-05
-9737994929,node,https://www.openstreetmap.org/node/9737994929,,,,,,,,40.6235825,16.7992973,,yes,,,,,,2026-04-05
-9737994930,node,https://www.openstreetmap.org/node/9737994930,,,,,,,,40.5883247,17.1120362,,yes,,,,,,2026-04-05
-9737994931,node,https://www.openstreetmap.org/node/9737994931,,,,,,,,40.6047934,17.2316225,,yes,,,,,,2026-04-05
-9739834882,node,https://www.openstreetmap.org/node/9739834882,,,,,,,,40.5780016,16.7576614,,yes,,,,,,2026-04-05
-9800973652,node,https://www.openstreetmap.org/node/9800973652,,,,,,,,40.6651355,16.6066084,,,,,,yes,,2026-04-05
-9814107553,node,https://www.openstreetmap.org/node/9814107553,,,,,,,,41.1851138,16.6703728,,,,,,no,,2026-04-05
-9952135305,node,https://www.openstreetmap.org/node/9952135305,,,,,,,,40.6608859,17.9620503,,,,,,yes,,2026-04-05
-9974586866,node,https://www.openstreetmap.org/node/9974586866,,,,,,,,40.1416479,15.6061792,,,,,,,,2026-04-05
-9996873972,node,https://www.openstreetmap.org/node/9996873972,,,,,,,,40.7964035,17.1215721,24/7,yes,,,,no,0,2026-04-05
-10031520342,node,https://www.openstreetmap.org/node/10031520342,C/o Centro commerciale,,,,,,,40.7759957,17.3366954,,,,,,,,2026-04-05
-10031567972,node,https://www.openstreetmap.org/node/10031567972,,,,,,,,40.6279231,16.7981527,24/7,yes,,,,,0,2026-04-05
-10031983324,node,https://www.openstreetmap.org/node/10031983324,,,,,,,,40.5792312,17.0349066,24/7,yes,,,,,0,2026-04-05
-10033382929,node,https://www.openstreetmap.org/node/10033382929,,,,,,,,40.5439573,15.640248,,,,,,no,,2026-04-05
-10041475253,node,https://www.openstreetmap.org/node/10041475253,,,,,,,,40.7938047,17.1251128,24/7,yes,,+39 118,,no,0,2026-04-05
-10053779936,node,https://www.openstreetmap.org/node/10053779936,,,,,,,,40.9547331,17.2940404,24/7,yes,,,,no,0,2026-04-05
-10053837178,node,https://www.openstreetmap.org/node/10053837178,,,,,,,,40.8345985,17.3661266,,,,,,yes,,2026-04-05
-10270354275,node,https://www.openstreetmap.org/node/10270354275,,,,,,,,41.0490227,16.9221785,,yes,Comune ei Capurso,,,no,,2026-04-05
-10271421689,node,https://www.openstreetmap.org/node/10271421689,,,,,,,,41.048725,16.9188766,,yes,Comune di Capurso,,,no,,2026-04-05
-10328666503,node,https://www.openstreetmap.org/node/10328666503,,,,,,,,40.4571572,17.2753002,,,,,,yes,,2026-04-05
-10586851562,node,https://www.openstreetmap.org/node/10586851562,,,,,,,,41.995195,14.9733185,,,,,,yes,,2026-04-05
-10737245247,node,https://www.openstreetmap.org/node/10737245247,DAE c/o Liceo Cafiero,,,,,,,41.3127587,16.2856545,,,,,,,,2026-04-05
-10779552508,node,https://www.openstreetmap.org/node/10779552508,,,,,,,,39.8865029,18.1139634,,no,,,,yes,0,2026-04-05
-10837797084,node,https://www.openstreetmap.org/node/10837797084,,,,,,,,39.9603101,18.2064061,,yes,Protezione Civile Falchi del Salento,,,no,,2026-04-05
-10840343792,node,https://www.openstreetmap.org/node/10840343792,,,,,,,,40.1013335,18.449587,,yes,,,,,,2026-04-05
-11048217274,node,https://www.openstreetmap.org/node/11048217274,,,,,,,,41.7355055,16.1185664,,,,,,,,2026-04-05
-11051917231,node,https://www.openstreetmap.org/node/11051917231,,,,,,,,41.7075246,16.04915,24/7,yes,,,,,,2026-04-05
-11059571846,node,https://www.openstreetmap.org/node/11059571846,,,,,,,,40.0548648,17.9759209,24/7,yes,,,,,0,2026-04-05
-11059733461,node,https://www.openstreetmap.org/node/11059733461,,,,,,,,40.0890015,18.013455,24/7,yes,,,,no,0,2026-04-05
-11060559136,node,https://www.openstreetmap.org/node/11060559136,,,,,,,,40.0915612,18.0121707,24/7,yes,,,,no,0,2026-04-05
-11061450845,node,https://www.openstreetmap.org/node/11061450845,,,,,,,,40.0559125,17.9811932,24/7,yes,,,,no,0,2026-04-05
-11068802678,node,https://www.openstreetmap.org/node/11068802678,,,,,,,,40.0122596,18.4322116,,,,,,,0,2026-04-05
-11070155139,node,https://www.openstreetmap.org/node/11070155139,,,,,,,,40.005825,18.4273623,24/7,yes,,,,,0,2026-04-05
-11072734514,node,https://www.openstreetmap.org/node/11072734514,,,,,,,,40.0395481,18.4126665,24/7,yes,,,,no,0,2026-04-05
-11073082989,node,https://www.openstreetmap.org/node/11073082989,,,,,,,,40.052685,18.378101,24/7,yes,,,,no,0,2026-04-05
-11085743447,node,https://www.openstreetmap.org/node/11085743447,,,,,,,,41.9140604,14.913107,,,,,,,,2026-04-05
-11097467873,node,https://www.openstreetmap.org/node/11097467873,,,,,,,,40.7431142,17.4256495,,,,,,no,,2026-04-05
-11115869305,node,https://www.openstreetmap.org/node/11115869305,,vor dem Gebäudeeingang auf dem Gehsteig,,,,,,39.9584425,18.2188901,24/7,yes,Gemeinde,,,no,,2026-04-05
-11178488963,node,https://www.openstreetmap.org/node/11178488963,DAE c/o Scuola De Amicis,,,,,,,40.8953873,16.8413288,,,,,,yes,,2026-04-05
-11250545899,node,https://www.openstreetmap.org/node/11250545899,,,,,,,,41.0816326,16.7797853,,yes,,,,no,,2026-04-05
-11303335935,node,https://www.openstreetmap.org/node/11303335935,,,,,,,,41.0826524,16.7821449,,,,,,,,2026-04-05
-11366791060,node,https://www.openstreetmap.org/node/11366791060,,,,,,,,41.2466574,16.29687,,,,,,yes,,2026-04-05
-11366801777,node,https://www.openstreetmap.org/node/11366801777,,,,,,,,41.1178997,16.8697607,,yes,Rete Ferroviaria Italiana,,,yes,,2026-04-05
-11373944295,node,https://www.openstreetmap.org/node/11373944295,,,,,,,,40.5806234,17.8361968,,,,,,yes,,2026-04-05
-11379929446,node,https://www.openstreetmap.org/node/11379929446,,,,,,,,40.3740049,18.147009,,,,,,yes,,2026-04-05
-11381305675,node,https://www.openstreetmap.org/node/11381305675,,,,,,,,40.2934039,18.197556,,,,,,yes,,2026-04-05
-11399805440,node,https://www.openstreetmap.org/node/11399805440,,,,,,,,40.3533424,17.3637005,,,,,,no,,2026-04-05
-11405660683,node,https://www.openstreetmap.org/node/11405660683,,,,,,,,40.5625716,17.3343267,,,,,,no,,2026-04-05
-11411969459,node,https://www.openstreetmap.org/node/11411969459,,,,,,,,40.1799624,16.582865,,,,,,no,,2026-04-05
-11414497070,node,https://www.openstreetmap.org/node/11414497070,,,,,,,,39.7915916,16.4788931,,,,,,no,,2026-04-05
-11453002604,node,https://www.openstreetmap.org/node/11453002604,,,,,,,,41.1304209,16.5551,,yes,,,,no,,2026-04-05
-11458149879,node,https://www.openstreetmap.org/node/11458149879,,,,,,,,41.1077377,16.6915051,,,,,,no,,2026-04-05
-11472333418,node,https://www.openstreetmap.org/node/11472333418,,,Piazza Vittorio Emanuele II,,Giovinazzo,,,41.1879765,16.6726193,,,,,,no,,2026-04-05
-11506243872,node,https://www.openstreetmap.org/node/11506243872,,,,,,,,41.4539345,15.5504572,,,,,,yes,,2026-04-05
-11514376808,node,https://www.openstreetmap.org/node/11514376808,DAE C/o Farmacia H24,,,,,,,40.9526318,17.301178,,,,,,,,2026-04-05
-11655780709,node,https://www.openstreetmap.org/node/11655780709,,,,,,,,41.127907,16.8604206,,,,,,yes,,2026-04-05
-11655780710,node,https://www.openstreetmap.org/node/11655780710,,,,,,,,41.1279025,16.8579527,,,,,,yes,,2026-04-05
-11688234259,node,https://www.openstreetmap.org/node/11688234259,,,,,,,,41.8827814,16.1802808,,,,,,no,,2026-04-05
-11744041688,node,https://www.openstreetmap.org/node/11744041688,,,,,,,,40.0744139,15.5289273,,,,,,no,,2026-04-05
-11745256912,node,https://www.openstreetmap.org/node/11745256912,,,,,,,,40.0496501,15.4500768,,,,,,no,,2026-04-05
-11745774690,node,https://www.openstreetmap.org/node/11745774690,,,,,,,,40.0211643,15.382046,,,,,,no,,2026-04-05
-11762088489,node,https://www.openstreetmap.org/node/11762088489,,,,,,,,40.6351741,14.9074381,,,,,,yes,,2026-04-05
-11777789599,node,https://www.openstreetmap.org/node/11777789599,,,,,,,,40.5589019,17.808994,,yes,,,,no,0,2026-04-05
-11949954788,node,https://www.openstreetmap.org/node/11949954788,,,,,,,,40.2810212,17.8405258,,,,,,yes,,2026-04-05
-12074156497,node,https://www.openstreetmap.org/node/12074156497,,,,,,,,40.2910052,14.9465859,,,,,,,,2026-04-05
-12110823689,node,https://www.openstreetmap.org/node/12110823689,,,,,,,,41.163204,16.7471744,,yes,,,,no,,2026-04-05
-12112405902,node,https://www.openstreetmap.org/node/12112405902,,,,,,,,41.1633737,16.7508531,,yes,,,,no,,2026-04-05
-12135553401,node,https://www.openstreetmap.org/node/12135553401,DAE c/o Scuola Ascanio grandi,,,,,,,40.3473453,18.1820661,,,,,,,,2026-04-05
-12150478337,node,https://www.openstreetmap.org/node/12150478337,,,,,,,,40.9689137,17.1150171,,,,,,no,,2026-04-05
-12158506766,node,https://www.openstreetmap.org/node/12158506766,,,,,,,,41.1534393,16.7650861,,,,,,no,,2026-04-05
-12163518438,node,https://www.openstreetmap.org/node/12163518438,,,,,,,,41.7063512,15.95297,,yes,,,,no,,2026-04-05
-12171369428,node,https://www.openstreetmap.org/node/12171369428,,,,,,,,40.1447546,18.4943628,,,,,,no,,2026-04-05
-12177030066,node,https://www.openstreetmap.org/node/12177030066,,,,,,,,41.1501322,16.7651972,,,,,,no,,2026-04-05
-12181788317,node,https://www.openstreetmap.org/node/12181788317,,,,,,,,41.10312,16.6874786,,,,,,yes,,2026-04-05
-12181788319,node,https://www.openstreetmap.org/node/12181788319,,,,,,,,41.1067462,16.690724,,,,,,yes,,2026-04-05
-12222007762,node,https://www.openstreetmap.org/node/12222007762,,,,,,,,40.1461307,18.4908609,,,,,,,,2026-04-05
-12244288483,node,https://www.openstreetmap.org/node/12244288483,,"After the entrance door on the right,green box on the wall.",,,,,,40.4232793,15.0070171,,yes,,,,yes,,2026-04-05
-12244288485,node,https://www.openstreetmap.org/node/12244288485,,,,,,,,40.4240346,15.0062648,,,,,,,,2026-04-05
-12248299469,node,https://www.openstreetmap.org/node/12248299469,,,,,,,,40.0505421,15.4498813,,yes,,,,no,,2026-04-05
-12250156036,node,https://www.openstreetmap.org/node/12250156036,,,,,,,,39.9958228,15.7223513,24/7,yes,,,,no,,2026-04-05
-12250747916,node,https://www.openstreetmap.org/node/12250747916,,,,,,,,40.6192038,15.05638,,yes,,,,no,,2026-04-05
-12291844743,node,https://www.openstreetmap.org/node/12291844743,,,,,,,,41.1144273,16.4860819,,,,,,no,,2026-04-05
-12291844759,node,https://www.openstreetmap.org/node/12291844759,,,,,,,,41.1117612,16.5028941,,,,,,,,2026-04-05
-12310097371,node,https://www.openstreetmap.org/node/12310097371,,,,,,,,40.4727671,17.2338256,,,,,,yes,0,2026-04-05
-12310292791,node,https://www.openstreetmap.org/node/12310292791,,,,,,,,40.8883356,16.9493661,,,,,,no,,2026-04-05
-12368110101,node,https://www.openstreetmap.org/node/12368110101,,,,,,,,40.2734854,18.3340678,,yes,,,,no,,2026-04-05
-12386192445,node,https://www.openstreetmap.org/node/12386192445,,,,,,,,41.2819265,16.4181649,,,,,,,,2026-04-05
-12462733657,node,https://www.openstreetmap.org/node/12462733657,,,,,,,,40.2552017,18.4441626,,yes,,,,no,,2026-04-05
-12473215195,node,https://www.openstreetmap.org/node/12473215195,,,,,,,,39.9952594,18.3982404,,,,,,no,,2026-04-05
-12484904427,node,https://www.openstreetmap.org/node/12484904427,,,,,,,,41.2085773,16.5814657,,yes,,,,no,,2026-04-05
-12531618571,node,https://www.openstreetmap.org/node/12531618571,,,,,,,,41.1348379,16.763929,,,,,,no,0,2026-04-05
-12541254133,node,https://www.openstreetmap.org/node/12541254133,,,,,,,,41.1978836,16.5947991,,,,,,no,,2026-04-05
-12541357245,node,https://www.openstreetmap.org/node/12541357245,,,,,,,,41.200669,16.6067198,,,,,,no,,2026-04-05
-12549038025,node,https://www.openstreetmap.org/node/12549038025,,,,,,,,41.2794313,16.4188578,,yes,,,,no,,2026-04-05
-12549038063,node,https://www.openstreetmap.org/node/12549038063,,,,,,,,41.2761294,16.4256409,"Mo,We,Fr 19:00-21:15; Tu,Th 08:00-11:00, 15:00-21:15; Sa 08:00-12:00; Su off",yes,,,,yes,,2026-04-05
-12558542503,node,https://www.openstreetmap.org/node/12558542503,,,,,,,,41.196524,16.5968685,,yes,,,,no,,2026-04-05
-12558549860,node,https://www.openstreetmap.org/node/12558549860,,,,,,,,40.6473144,17.5155823,,,,,,,,2026-04-05
-12563595945,node,https://www.openstreetmap.org/node/12563595945,,,,,,,,40.9715821,17.1109129,,,,,,,,2026-04-05
-12625691725,node,https://www.openstreetmap.org/node/12625691725,Dae C/o iISS Bachelet,,,,,,,40.2732098,18.0411393,,,,,,,,2026-04-05
-12647257465,node,https://www.openstreetmap.org/node/12647257465,DAE H24,Condominio: suonare 3º piano Ferrari,,,,,,41.3192011,16.2881327,,,,,,,,2026-04-05
-12676639543,node,https://www.openstreetmap.org/node/12676639543,,,,,,,,40.4762416,17.9702992,,yes,,,,yes,,2026-04-05
-12706365756,node,https://www.openstreetmap.org/node/12706365756,,,,,,,,40.1741134,18.1698951,,,,,,,,2026-04-05
-12706368660,node,https://www.openstreetmap.org/node/12706368660,,,,,,,,40.7863843,17.2378705,,,,,,,,2026-04-05
-12706374368,node,https://www.openstreetmap.org/node/12706374368,,,,,,,,40.7812866,17.2349038,,,,,,no,,2026-04-05
-12706389207,node,https://www.openstreetmap.org/node/12706389207,,,,,,,,40.6296316,16.9386428,,,,,,,,2026-04-05
-12706390154,node,https://www.openstreetmap.org/node/12706390154,,,,,,,,40.6334446,17.0388273,,,,,,no,,2026-04-05
-12729074467,node,https://www.openstreetmap.org/node/12729074467,DAE c/o IC Pascoli,,,,,,,40.7953119,17.1206325,,no,,,,yes,,2026-04-05
-12759332172,node,https://www.openstreetmap.org/node/12759332172,,,,,,,,40.4202648,15.0065088,,,,,,yes,,2026-04-05
-12797213870,node,https://www.openstreetmap.org/node/12797213870,,,,,,,,40.5500267,17.7140529,,yes,,,,no,,2026-04-05
-12797221036,node,https://www.openstreetmap.org/node/12797221036,,,,,,,,40.553336,17.7154327,,yes,,,,no,,2026-04-05
-12797401803,node,https://www.openstreetmap.org/node/12797401803,,,,,,,,40.5528409,17.7145705,,yes,,,,no,,2026-04-05
-12798019632,node,https://www.openstreetmap.org/node/12798019632,,,,,,,,40.8860238,17.3868394,Mo-Sa 08:30-19:30; Su 08:30-13:30,,,,,yes,,2026-04-05
-12798022817,node,https://www.openstreetmap.org/node/12798022817,,,,,,,,41.1835938,16.6697014,,,,,,no,,2026-04-05
-12800041150,node,https://www.openstreetmap.org/node/12800041150,,,,,,,,40.5566666,17.7152781,,yes,,,,no,,2026-04-05
-12800315363,node,https://www.openstreetmap.org/node/12800315363,,,,,,,,40.5542175,17.7163826,,yes,,,,no,,2026-04-05
-12800364134,node,https://www.openstreetmap.org/node/12800364134,,,,,,,,40.5535226,17.717704,,yes,,,,no,,2026-04-05
-12814336401,node,https://www.openstreetmap.org/node/12814336401,DAE c/o IISS Canudo,,,,,,,40.802446,16.9299303,,,,,,yes,,2026-04-05
-12823173480,node,https://www.openstreetmap.org/node/12823173480,Postazione Defibrillatore,,,,,,,40.3340303,18.1206157,,yes,,,,,,2026-04-05
-12823173481,node,https://www.openstreetmap.org/node/12823173481,Postazione Defibrillatore,,,,,,,40.3349868,18.1199558,,yes,,,,,,2026-04-05
-12834791752,node,https://www.openstreetmap.org/node/12834791752,,mapped based on sign on the north door of the building,,,,,,40.9454951,17.3096319,,,,,,yes,,2026-04-05
-12860744204,node,https://www.openstreetmap.org/node/12860744204,,,,,,,,41.1226825,16.8721902,Mo-Su 10:00-21:00,,Bershka,,,yes,0,2026-04-05
-12920804806,node,https://www.openstreetmap.org/node/12920804806,,,,,,,,41.6221741,15.8934715,,permit,,,,yes,0,2026-04-05
-12920822701,node,https://www.openstreetmap.org/node/12920822701,,,,,,,,41.6289167,15.9186142,,permit,,,,yes,0,2026-04-05
-12925516809,node,https://www.openstreetmap.org/node/12925516809,,,,,,,,41.2236268,16.311761,Mo-Sa 08:00-17:00,yes,,,,yes,,2026-04-05
-12963835886,node,https://www.openstreetmap.org/node/12963835886,,,,,,,,41.2046379,16.6003025,,,,,,no,,2026-04-05
-12963835887,node,https://www.openstreetmap.org/node/12963835887,,,,,,,,41.204945,16.5974095,,,,,,no,,2026-04-05
-12967085987,node,https://www.openstreetmap.org/node/12967085987,,,,,,,,40.2687138,14.9443409,,yes,,,,no,,2026-04-05
-12990669154,node,https://www.openstreetmap.org/node/12990669154,,,,,,,,41.1303977,16.5473786,,,,,,no,,2026-04-05
-12990669155,node,https://www.openstreetmap.org/node/12990669155,,,,,,,,41.1267292,16.5482759,,,,,,,,2026-04-05
-13015509695,node,https://www.openstreetmap.org/node/13015509695,,,,,,,,40.249406,15.1880516,,,,,,no,,2026-04-05
-13017910126,node,https://www.openstreetmap.org/node/13017910126,,,,,,,,40.5316328,17.4394798,,,,,,no,,2026-04-05
-13017970933,node,https://www.openstreetmap.org/node/13017970933,,,,,,,,40.5285855,17.4399848,,,,,,no,,2026-04-05
-13036850232,node,https://www.openstreetmap.org/node/13036850232,,,,,,,,40.5331946,15.0588251,,yes,,,,,,2026-04-05
-13056467479,node,https://www.openstreetmap.org/node/13056467479,,,,,,,,40.5420066,17.4321444,,,,,,no,,2026-04-05
-13056562579,node,https://www.openstreetmap.org/node/13056562579,,,,,,,,40.5329966,17.431292,,,,,,no,,2026-04-05
-13057563492,node,https://www.openstreetmap.org/node/13057563492,,,,,,,,40.9981766,15.6530143,,,,,,yes,,2026-04-05
-13057585508,node,https://www.openstreetmap.org/node/13057585508,,,,,,,,40.996806,15.6582016,,,,,,yes,,2026-04-05
-13059984983,node,https://www.openstreetmap.org/node/13059984983,,,,,,,,40.5325139,17.4353244,24/7,yes,,,,no,,2026-04-05
-13060106098,node,https://www.openstreetmap.org/node/13060106098,,,,,,,,41.2789173,16.4134988,,,,,,no,,2026-04-05
-13083849163,node,https://www.openstreetmap.org/node/13083849163,,,,,,,,40.1149229,18.4523655,,,,,,,,2026-04-05
-13120165719,node,https://www.openstreetmap.org/node/13120165719,,,,,,,,41.1309062,16.5537077,,yes,,,,,,2026-04-05
-13136671276,node,https://www.openstreetmap.org/node/13136671276,,,,,,,,40.2444316,15.5522212,,yes,,,,,,2026-04-05
-13138373674,node,https://www.openstreetmap.org/node/13138373674,,,,,,,,40.2114163,16.6771569,,,,,,no,,2026-04-05
-13164814535,node,https://www.openstreetmap.org/node/13164814535,,,,,,,,41.3221135,16.2840743,,,,,,,,2026-04-05
-13164814536,node,https://www.openstreetmap.org/node/13164814536,,,,,,,,41.3179564,16.2813968,,,,,,,,2026-04-05
-13186142402,node,https://www.openstreetmap.org/node/13186142402,,,,,,,,40.7919356,15.9390864,,yes,Militare di servizio alla caserma,,,yes,,2026-04-05
-13186142901,node,https://www.openstreetmap.org/node/13186142901,,,,,,,,40.7919407,15.9390259,,yes,Militare di servizio alla caserma,,,yes,,2026-04-05
-13192246098,node,https://www.openstreetmap.org/node/13192246098,,,,,,,,41.1292503,16.5400168,,,,,,,,2026-04-05
-13261793409,node,https://www.openstreetmap.org/node/13261793409,,,,,,,,40.2471862,15.8887507,,yes,,,,,,2026-04-05
-13284806601,node,https://www.openstreetmap.org/node/13284806601,,,,,,,,40.0550517,17.9744218,,,,,,,,2026-04-05
-13312837597,node,https://www.openstreetmap.org/node/13312837597,,,,,,,,41.6863335,15.3802507,,,,,,,,2026-04-05
-13312897755,node,https://www.openstreetmap.org/node/13312897755,,,,,,,,41.8972573,15.9532859,,,,,,,,2026-04-05
-13322524111,node,https://www.openstreetmap.org/node/13322524111,,,,,,,,39.7781948,16.1556759,,yes,,,,,,2026-04-05
-13351635348,node,https://www.openstreetmap.org/node/13351635348,,,,,,,,40.6357727,15.3822194,,,,,,no,,2026-04-05
-13397330350,node,https://www.openstreetmap.org/node/13397330350,,,,,,,,40.6322174,15.3712077,,,,,,,,2026-04-05
-13398144827,node,https://www.openstreetmap.org/node/13398144827,,,,,,,,41.1267512,16.5482948,,yes,,,,no,,2026-04-05
-13398242719,node,https://www.openstreetmap.org/node/13398242719,,,,,,,,41.2166882,16.5460867,,,,,,,,2026-04-05
-13398405784,node,https://www.openstreetmap.org/node/13398405784,,,,,,,,41.216186,16.5470148,,,,,,,,2026-04-05
-13410986145,node,https://www.openstreetmap.org/node/13410986145,Mindray BeneHeart D1,,,,,,,41.4660838,15.5500464,Mo-Tu 06:45-20:45; Su 08:00-13:30,yes,,,,yes,0,2026-04-05
-13414247021,node,https://www.openstreetmap.org/node/13414247021,,,,,,,,40.632052,15.3682886,,,,,,,,2026-04-05
-13415555992,node,https://www.openstreetmap.org/node/13415555992,,,,,,,,40.5308409,17.445036,,,,,,,,2026-04-05
-13416162952,node,https://www.openstreetmap.org/node/13416162952,,,,,,,,39.8676922,16.5321713,,yes,,,,no,,2026-04-05
-13426658226,node,https://www.openstreetmap.org/node/13426658226,,,,,,,,41.2008337,16.5996069,,yes,,,,no,,2026-04-05
-13460826488,node,https://www.openstreetmap.org/node/13460826488,,,,,,,,41.3138888,16.254593,,,,,,yes,0,2026-04-05
-13480727601,node,https://www.openstreetmap.org/node/13480727601,,,,,,,,41.3155256,16.2785371,,yes,,112,,no,,2026-04-05
-13534435567,node,https://www.openstreetmap.org/node/13534435567,,,,,,,,39.9414334,18.2998049,,,,,,,,2026-04-05
-13534602601,node,https://www.openstreetmap.org/node/13534602601,,,,,,,,41.3197663,16.2832734,,yes,,112,,no,,2026-04-05
-13575258936,node,https://www.openstreetmap.org/node/13575258936,DAE 24h Parete municipio,,,,,,,40.5572412,17.8107267,,,,,,,,2026-04-05
-13607265341,node,https://www.openstreetmap.org/node/13607265341,,,,,,,,41.2684824,16.4181478,,private,,,,yes,,2026-04-05
-13611194401,node,https://www.openstreetmap.org/node/13611194401,,,,,,,,40.5816462,15.6715526,,yes,,,,no,,2026-04-05
-13612532411,node,https://www.openstreetmap.org/node/13612532411,,,,,,,,41.3184841,16.2835442,,,,,,,,2026-04-05
-13625171915,node,https://www.openstreetmap.org/node/13625171915,,,,,,,,40.2094107,15.1178017,,,,,,,,2026-04-05
-13628636773,node,https://www.openstreetmap.org/node/13628636773,,,,,,,,40.2326783,15.0933849,,,,,,,,2026-04-05
-13630874094,node,https://www.openstreetmap.org/node/13630874094,,,,,,,,40.2015732,15.0583895,,,,,,,,2026-04-05
-13639263901,node,https://www.openstreetmap.org/node/13639263901,,,,,,,,40.3345106,17.9702445,,yes,,,,no,,2026-04-05
-13639266601,node,https://www.openstreetmap.org/node/13639266601,,,,,,,,40.3377866,17.9549822,,yes,,,,no,,2026-04-05
-13641297150,node,https://www.openstreetmap.org/node/13641297150,,,,,,,,40.5512051,17.7208661,,yes,,,,no,,2026-04-05
-13645238003,node,https://www.openstreetmap.org/node/13645238003,,,,,,,,40.5342835,17.4280298,,,,,,no,,2026-04-05
-13650657775,node,https://www.openstreetmap.org/node/13650657775,,,,,,,,41.1320292,16.5495259,,,,,,no,,2026-04-05
-13705981422,node,https://www.openstreetmap.org/node/13705981422,,,,,,,,40.2781334,14.9523228,,,,,,no,,2026-04-05
+3769748372,node,https://www.openstreetmap.org/node/3769748372,Defibrillatore DAE Chiesa dei Salesiani,,,,,,,40.3637584,18.1826937,,,,,,,,2026-04-06
+3769750225,node,https://www.openstreetmap.org/node/3769750225,Defibrillatore Scuola Media Quinto Ennio,,Via Matteo Renato Imbriani,46,Lecce,73100,LE,40.3555763,18.1825285,,,,,,,,2026-04-06
+3770036333,node,https://www.openstreetmap.org/node/3770036333,ACI Lecce,,Via Giuseppe Candido,2,Lecce,73100,LE,40.3500105,18.1771459,"Mo-Fr 08:00-13:00, 16:00-18:00; Sa 08:00-11:00; Aug Mo,We,Fr 08:00-13:00; Aug Sa off; Jul Mo,We,Fr 08:00-13:00; PH off",,Automobile Club d'Italia,+39 0832 309066,,,,2026-04-06
+3770036334,node,https://www.openstreetmap.org/node/3770036334,Check Up Centre,,Via Daniela e Paola Bastianutti,35,Lecce,73100,LE,40.3423573,18.1600599,,,,+39 0832 352419,,,,2026-04-06
+3770094807,node,https://www.openstreetmap.org/node/3770094807,Defibrillatore DAE Circolo Tennis,,,,,,,40.3569618,18.1681175,,,,,,,,2026-04-06
+3770112780,node,https://www.openstreetmap.org/node/3770112780,Confcommercio Lecce,,Via Cicolella,3,Lecce,73100,LE,40.3444467,18.1830945,,,,+39 0832 345146,,,,2026-04-06
+3770174106,node,https://www.openstreetmap.org/node/3770174106,Defibrillatore DAE Istituto Magistrale Siciliani,,,,,,,40.3472947,18.1738948,,,,,,yes,,2026-04-06
+3770174863,node,https://www.openstreetmap.org/node/3770174863,DAE c/o Liceo Classico Statale Giuseppe Palmieri,,,,,,,40.3545462,18.1662771,,,,,,,,2026-04-06
+3770204845,node,https://www.openstreetmap.org/node/3770204845,Defibrillatore DAE del CUS Lecce,,,,,,,40.3614079,18.1682476,,,,,,yes,,2026-04-06
+3770263210,node,https://www.openstreetmap.org/node/3770263210,Defibrillatore DAE Polizia Municipale,,,,,,,40.3495441,18.1858273,,,,,,,,2026-04-06
+3813039322,node,https://www.openstreetmap.org/node/3813039322,Giudice di Pace,,,,,,,40.3622136,18.1709295,,,,,,,,2026-04-06
+3859476091,node,https://www.openstreetmap.org/node/3859476091,ICOS Lecce,,Via Luigi Einaudi,12,Lecce,73100,LE,40.3591156,18.1577752,,,,,,,,2026-04-06
+3859793276,node,https://www.openstreetmap.org/node/3859793276,Dott. Mario Gazzabin,,Via Enzo Sozzo,9,Lecce,73100,LE,40.3460349,18.1842776,,,,,,,,2026-04-06
+3861014024,node,https://www.openstreetmap.org/node/3861014024,Defibrillatore DAE Centro Medico Pignatelli,,,,,,,40.3471194,18.1656652,,,,,,,,2026-04-06
+3861014025,node,https://www.openstreetmap.org/node/3861014025,Defibrillatore DAE I.I.S.S. De Pace,,,,,,,40.3471722,18.1783707,,,,,,,,2026-04-06
+3861014026,node,https://www.openstreetmap.org/node/3861014026,Defibrillatore DAE Istituto Tecnico Deledda,,,,,,,40.3612292,18.1941529,,,,,,,,2026-04-06
+3861014027,node,https://www.openstreetmap.org/node/3861014027,Defibrillatore DAE Laboratorio Pignatelli,,,,,,,40.3474037,18.1659474,,,,,,,,2026-04-06
+3861014028,node,https://www.openstreetmap.org/node/3861014028,Defibrillatore DAE Liceo Scientifico Banzi Bazoli,,,,,,,40.3611203,18.1924708,,,,,,,,2026-04-06
+3861014029,node,https://www.openstreetmap.org/node/3861014029,Defibrillatore DAE Medic's Biomedica,,,,,,,40.3542573,18.151898,,,,,,,,2026-04-06
+3861014030,node,https://www.openstreetmap.org/node/3861014030,Defibrillatore DAE Palazzo Carafa,,,,,,,40.3535788,18.1717592,,,,,,yes,,2026-04-06
+3861014031,node,https://www.openstreetmap.org/node/3861014031,Defibrillatore DAE Tribunale Civile,,,,,,,40.3624315,18.1705735,,,,,,,,2026-04-06
+3861014032,node,https://www.openstreetmap.org/node/3861014032,Defibrillatore DAE Tribunale Penale,,,,,,,40.3591324,18.1731686,,,,,,,,2026-04-06
+3861080739,node,https://www.openstreetmap.org/node/3861080739,DAE c/o RX CALABRESE,,,,,,,40.3221111,18.1337556,,,,,,,,2026-04-06
+3874229578,node,https://www.openstreetmap.org/node/3874229578,DAE c/o Uffici Comunali,,,,,,,40.352644,18.1693089,,,,,,,,2026-04-06
+3874230757,node,https://www.openstreetmap.org/node/3874230757,DAE c/o Caserma Zappalà,,,,,,,40.3476835,18.1546586,,,,,,,,2026-04-06
+3874231564,node,https://www.openstreetmap.org/node/3874231564,DAE c/o Caserma Nacci,,,,,,,40.3452175,18.1484992,,,,,,,,2026-04-06
+3874232602,node,https://www.openstreetmap.org/node/3874232602,DAE c/o Centro Ippico Militare,,,,,,,40.3535007,18.2151325,,,,,,,,2026-04-06
+3874234249,node,https://www.openstreetmap.org/node/3874234249,Studio Analisi Cliniche De Vitis,,Via Edoardo De Candia,35,Lecce,73100,LE,40.3456083,18.1845717,,,,,,,,2026-04-06
+3888337596,node,https://www.openstreetmap.org/node/3888337596,Crio,,Via Matteo Renato Imbriani,13b,Lecce,73100,LE,40.3531344,18.1831695,,,,,,,,2026-04-06
+3888347869,node,https://www.openstreetmap.org/node/3888347869,Studio Radiologico Quarta Colosso,,Via Filippo Turati,19,,73100,LE,40.3510365,18.1813545,,,,,,,,2026-04-06
+3894730989,node,https://www.openstreetmap.org/node/3894730989,"Defibrillatore DAE c/o Liceo Scientifico ""C. De Giorgi""",,,,,,,40.3596698,18.1718057,,,,,,,,2026-04-06
+3894779344,node,https://www.openstreetmap.org/node/3894779344,Defibrillatore DAE c/o Liceo De Giorgi,,,,,,,40.3571976,18.1608021,,,,,,,,2026-04-06
+3894989585,node,https://www.openstreetmap.org/node/3894989585,Defibrillatore DAE c/o Centro TKD Olimpico,,,,,,,40.3371751,18.1836927,,,,,,,,2026-04-06
+3902577099,node,https://www.openstreetmap.org/node/3902577099,"DAE defibrillatore c/o Istituto Tecnico Commerciale ""Francesco Calasso""",,,,,,,40.3691061,18.1732224,,,,,,,,2026-04-06
+3920664155,node,https://www.openstreetmap.org/node/3920664155,Postazione Defibrillatore DAE c/o Palazzetto dello Sport Germano Ventura,,,,,,,40.362963,18.1924018,,,,,,,,2026-04-06
+3920700725,node,https://www.openstreetmap.org/node/3920700725,Postazione Defibrillatore DAE c/o Centro Sportivo Santa Rosa,,,,,,,40.3647518,18.1750447,,,,,,,,2026-04-06
+3921786106,node,https://www.openstreetmap.org/node/3921786106,,,,,,,,40.5798024,15.7457802,24/7,,,,,,,2026-04-06
+3941788201,node,https://www.openstreetmap.org/node/3941788201,Postazione Defibrillatore DAE c/o Casa di Cura Villa Bianca,,,,,,,40.3427948,18.1753974,,,,,,,,2026-04-06
+3941821019,node,https://www.openstreetmap.org/node/3941821019,Postazione Defibrillatore DAE c/o ASD Sporting Club,,,,,,,40.3463355,18.1784907,,,,,,,,2026-04-06
+3951426535,node,https://www.openstreetmap.org/node/3951426535,defibrillatore DAE c/o succursale Liceo Magistrale Siciliani,,,,,,,40.3474668,18.1645702,,,,,,,,2026-04-06
+3957927446,node,https://www.openstreetmap.org/node/3957927446,Postazione defibrillatore DAE c/o Campo CONI,,,,,,,40.3661953,18.177076,,,,,,,,2026-04-06
+3957973742,node,https://www.openstreetmap.org/node/3957973742,postazione defibrillatore DAE c/o GYM POINT,,,,,,,40.3567243,18.1902124,,,,,,,,2026-04-06
+3957984117,node,https://www.openstreetmap.org/node/3957984117,Postazione defibrillatore DAE c/o Uffici CONI,,,,,,,40.3582437,18.1674785,,,,,,,,2026-04-06
+3970776927,node,https://www.openstreetmap.org/node/3970776927,defibrillatore DAE c/o Punto ENEL,,,,,,,40.3559935,18.2000288,,,,,,,,2026-04-06
+4003067643,node,https://www.openstreetmap.org/node/4003067643,defibrillatore DAE c/o Istituto De Pace,,,,,,,40.3445706,18.1724833,,,,,,,,2026-04-06
+4056187700,node,https://www.openstreetmap.org/node/4056187700,defibrillatore DAE c/o Scuola Media Stomeo Zimbalo,,,,,,,40.3629523,18.1991101,,,,,,,,2026-04-06
+4056193544,node,https://www.openstreetmap.org/node/4056193544,defibrillatore DAE c/o Circolo IppicoIl Dirupo,,,,,,,40.3280107,18.1360854,,,,,,,,2026-04-06
+4152769399,node,https://www.openstreetmap.org/node/4152769399,,,,,,,,40.3870247,18.3042592,,,,,,,,2026-04-06
+4152789380,node,https://www.openstreetmap.org/node/4152789380,defibrillatore c/o Lido Turrisi,,,,,,,40.3911358,18.3055254,,,,,,,,2026-04-06
+4152790428,node,https://www.openstreetmap.org/node/4152790428,,,,,,,,40.3918738,18.3048301,,,,,,,,2026-04-06
+4152810489,node,https://www.openstreetmap.org/node/4152810489,,Available during summer,,,,,,40.3929733,18.3032911,,,,,,,,2026-04-06
+4152811373,node,https://www.openstreetmap.org/node/4152811373,,Available during summer,,,,,,40.3933778,18.3022397,,,,,,,,2026-04-06
+4152818577,node,https://www.openstreetmap.org/node/4152818577,,,,,,,,40.3959302,18.2981568,,,,,,,,2026-04-06
+4152850048,node,https://www.openstreetmap.org/node/4152850048,,,,,,,,40.4301,18.2528825,,,,,,,,2026-04-06
+4152851226,node,https://www.openstreetmap.org/node/4152851226,,,,,,,,40.4285587,18.2540488,,,,,,,,2026-04-06
+4152855915,node,https://www.openstreetmap.org/node/4152855915,,,,,,,,40.4305049,18.2525851,,,,,,,,2026-04-06
+4152867148,node,https://www.openstreetmap.org/node/4152867148,,,,,,,,40.437637,18.2483361,,,,,,,,2026-04-06
+4152867699,node,https://www.openstreetmap.org/node/4152867699,,,,,,,,40.4510463,18.2263061,,,,,,,,2026-04-06
+4152868151,node,https://www.openstreetmap.org/node/4152868151,,,,,,,,40.4681134,18.1888702,,,,,,,,2026-04-06
+4152873789,node,https://www.openstreetmap.org/node/4152873789,,,,,,,,40.4674296,18.194589,,,,,,,,2026-04-06
+4152881689,node,https://www.openstreetmap.org/node/4152881689,,,,,,,,40.467717,18.1928173,,,,,,,,2026-04-06
+4153002816,node,https://www.openstreetmap.org/node/4153002816,,,,,,,,40.4696044,18.1841701,,,,,,,,2026-04-06
+4153011643,node,https://www.openstreetmap.org/node/4153011643,,,,,,,,40.4692115,18.1855403,,,,,,,,2026-04-06
+4153024504,node,https://www.openstreetmap.org/node/4153024504,Defibrillatore c/o Villaggio Club,,,,,,,40.4850326,18.1460729,,,,,,,,2026-04-06
+4153251541,node,https://www.openstreetmap.org/node/4153251541,,,,,,,,40.4688838,18.1863921,,,,,,,,2026-04-06
+4165143189,node,https://www.openstreetmap.org/node/4165143189,,,,,,,,40.4309529,18.2522121,,,,,,,,2026-04-06
+4167008289,node,https://www.openstreetmap.org/node/4167008289,defibrillatore c/o IISS Costa,,,,,,,40.3538766,18.1748729,,,,,,yes,,2026-04-06
+4176170403,node,https://www.openstreetmap.org/node/4176170403,defibrillatore c/o Istituto Comprensivo A. Galateo - Frigole,,,,,,,40.3637086,18.1701064,,,,,,,,2026-04-06
+4176173892,node,https://www.openstreetmap.org/node/4176173892,"defibrillatore c/o palestra ""Il Cerchio""",,,,,,,40.3581495,18.1598217,,,,,,,,2026-04-06
+4216845007,node,https://www.openstreetmap.org/node/4216845007,defibrillatore DAE c/o Poligono di Tiro,,,,,,,40.3391298,18.1643026,,,,,,,,2026-04-06
+4216854737,node,https://www.openstreetmap.org/node/4216854737,defibrillatore dae c/o Out Line,,,,,,,40.3852883,18.1685557,,,,,,,,2026-04-06
+4252919767,node,https://www.openstreetmap.org/node/4252919767,IISS Enrico Medi,,,,,,,40.1450121,18.0757872,,,,,,,,2026-04-06
+4253006503,node,https://www.openstreetmap.org/node/4253006503,Photoworld.it,"DAE del progetto ""Paese Cardioprotetto"" dell'associazione Eso es Palinuro",Indipendenza,250,,,,40.0419748,15.2896595,24/7,,,,,no,0,2026-04-06
+4253006504,node,https://www.openstreetmap.org/node/4253006504,Villaggio degli Olivi,,,,,,,40.0375075,15.286724,24/7,,,,,yes,0,2026-04-06
+4253006505,node,https://www.openstreetmap.org/node/4253006505,Camping Internazionale Saline,,,,,,,40.047894,15.2841758,24/7,,,,,yes,0,2026-04-06
+4253006607,node,https://www.openstreetmap.org/node/4253006607,Guardia Costiera - Ufficio Circondariale Marittimo di Palinuro,,,,,,,40.0296559,15.2753801,24/7,,,,,yes,0,2026-04-06
+4253006608,node,https://www.openstreetmap.org/node/4253006608,Scuola P.Virgilio Marone,,,,,,,40.0362802,15.2867555,,,,,,yes,0,2026-04-06
+4253006717,node,https://www.openstreetmap.org/node/4253006717,Marinella Il Lido,"DAE del progetto ""Paese Cardioprotetto"" dell'associazione Eso es Palinuro",,,,,,40.0294171,15.2970167,sunrise-sunset,,,,,,,2026-04-06
+4253006906,node,https://www.openstreetmap.org/node/4253006906,Grand Hotel San Pietro,,,,,,,40.037147,15.2865412,24/7,,,,,yes,-3,2026-04-06
+4256157333,node,https://www.openstreetmap.org/node/4256157333,,,Largo San Girolamo,,Castrovillari,87012,,39.8207285,16.209566,,,,,,,,2026-04-06
+4256164104,node,https://www.openstreetmap.org/node/4256164104,,,,,,,,39.8124929,16.201762,,,,,,,,2026-04-06
+4256168967,node,https://www.openstreetmap.org/node/4256168967,Defibrillatore,,,,,,,39.8153216,16.2072981,,,,,,,,2026-04-06
+4256171411,node,https://www.openstreetmap.org/node/4256171411,,,,,,,,39.8275827,16.23616,,,,,,,,2026-04-06
+4256171723,node,https://www.openstreetmap.org/node/4256171723,Defibrillatore,,Via Nazionale delle Vigne,,Castrovillari,87012,,39.7376315,16.2682969,,,,,,,,2026-04-06
+4256173182,node,https://www.openstreetmap.org/node/4256173182,Defibrillatore,,Via Nazionale delle Vigne,,Castrovillari,87012,,39.7882839,16.23984,,,,,,,,2026-04-06
+4256191143,node,https://www.openstreetmap.org/node/4256191143,Farmacia Giannoni,,Via Roma,,Castrovillari,87012,,39.8134589,16.2044617,,,,,,yes,,2026-04-06
+4256488285,node,https://www.openstreetmap.org/node/4256488285,Defibrillatore,,Corso Calabria,,Castrovillari,87012,,39.8237731,16.1928922,,,,,,,,2026-04-06
+4258509302,node,https://www.openstreetmap.org/node/4258509302,DAE INPS,,,,,,,40.3439352,18.1723758,,,,,,,,2026-04-06
+4259936144,node,https://www.openstreetmap.org/node/4259936144,DAE c/o Istituto Tecnico Commerciale Olivetti,,,,,,,40.3444279,18.1857012,,,,,,,,2026-04-06
+4260581134,node,https://www.openstreetmap.org/node/4260581134,Defibrillatore,,Via San Francesco d'Assisi,,Castrovillari,87012,,39.8086812,16.209581,,,,,,,,2026-04-06
+4260759382,node,https://www.openstreetmap.org/node/4260759382,,,Querce,,Castrovillari,87012,,39.8244154,16.2099853,,,,,,,,2026-04-06
+4260764518,node,https://www.openstreetmap.org/node/4260764518,Defibrillatore,,,,,,,39.8215716,16.2308087,,,,,,,,2026-04-06
+4262405258,node,https://www.openstreetmap.org/node/4262405258,Defibrillatore DAE della ASD Colò,,Contrada Li Mori,,Lizzanello,,,40.314787,18.2319439,,,,,,,,2026-04-06
+4275412875,node,https://www.openstreetmap.org/node/4275412875,Defibrillatore 24h,,Via Augusto Imperatore,37,Lecce,73100,LE,40.3520675,18.1715484,,,,,,,,2026-04-06
+4277206377,node,https://www.openstreetmap.org/node/4277206377,DAE c/o Camping La Vecchia Torre,,,,,,,40.0824906,18.0109349,,,,,,,,2026-04-06
+4277736091,node,https://www.openstreetmap.org/node/4277736091,DAE presso Centro Biolab,,Via Siracusa,,Cutrofiano,73020,LE,40.125881,18.206916,,,,,,,,2026-04-06
+4278411735,node,https://www.openstreetmap.org/node/4278411735,Studio Radiologico Associato di Ruggiero e Maria Luisa Calabrese,Studio radiologico in possesso di defibrillatore.,Strada Provinciale Lecce-Maglie,km 1.5,Cavallino,73020,LE,40.3197049,18.1850568,,,,+39 0832 613111,,yes,,2026-04-06
+4279734149,node,https://www.openstreetmap.org/node/4279734149,Farmacia Mengoli,,Via Soleto,48,Galatina,,,40.1767485,18.1750843,,,,,,,,2026-04-06
+4280449894,node,https://www.openstreetmap.org/node/4280449894,DAE c/o Punto Fisso Beach,,,,,,,40.1014387,18.0121818,,,,,,,,2026-04-06
+4287675260,node,https://www.openstreetmap.org/node/4287675260,Defibrillatore Scuola Media Santi Medici,,Via degli Oleandri,7,Castrovillari,87012,,39.8223781,16.204806,,,,,,,,2026-04-06
+4287678052,node,https://www.openstreetmap.org/node/4287678052,Defibrillatore Scuola Media Enrico De Nicola,,Via Coscile,2,Castrovillari,87012,,39.8164444,16.2069931,,,,,,,,2026-04-06
+4287686881,node,https://www.openstreetmap.org/node/4287686881,Defibrillatore Farmacia d'Atri,,Via Roma,27,Castrovillari,,,39.8125794,16.2030768,,,,,,,,2026-04-06
+4287694280,node,https://www.openstreetmap.org/node/4287694280,Defibrillatore Farmacia Filpo Caterini,,Corso Giuseppe Garibaldi,163,Castrovillari,87012,,39.8112695,16.2038658,,,,,,,,2026-04-06
+4287926935,node,https://www.openstreetmap.org/node/4287926935,,,,,,,,40.2106227,18.4580813,,,,,,,,2026-04-06
+4287934156,node,https://www.openstreetmap.org/node/4287934156,CENTRO PRIMO SOCCORSO ECOTEKNE,,,,,,,40.3352944,18.1169182,,,,,,,,2026-04-06
+4287971350,node,https://www.openstreetmap.org/node/4287971350,Centro Fitness,,,,Carmiano,,,40.3478539,18.0445158,,,,,,,,2026-04-06
+4295699497,node,https://www.openstreetmap.org/node/4295699497,defibrillatore c/o I:C. Ammirato Falcone,,,,,,,40.3371415,18.1766756,,,,,,,,2026-04-06
+4295732680,node,https://www.openstreetmap.org/node/4295732680,defibrillatore c/o Match Point,,,,,,,40.3437026,18.2116447,,,,,,yes,,2026-04-06
+4296237180,node,https://www.openstreetmap.org/node/4296237180,"DAE presso R.S.S.A. ""Santa Rita""",,Via Rocci Perrella,,Alezio,,,40.0583225,18.0580292,,,,,,,,2026-04-06
+4296876921,node,https://www.openstreetmap.org/node/4296876921,DAE presso Vitaldent,,Via Salvatore Trinchese,,Lecce,73100,LE,40.3539767,18.1828293,,,,,,,,2026-04-06
+4300538828,node,https://www.openstreetmap.org/node/4300538828,DAE presso Texil3,,,,,,,40.0640207,18.1074093,,,,,,,,2026-04-06
+4304097071,node,https://www.openstreetmap.org/node/4304097071,DAE presso Lido Verde,,Via Vespucci,,Vernole,,,40.3794317,18.3090217,,,,,,,,2026-04-06
+4310936904,node,https://www.openstreetmap.org/node/4310936904,Defibrillatore all'interno della Farmacia D'Atri,,,,,,,39.8125883,16.2030644,,,,,,,,2026-04-06
+4316126951,node,https://www.openstreetmap.org/node/4316126951,DAE c/o Istituto Comprensivo Dante Alighieri - Armando Diaz,,,,,,,40.3527351,18.1639688,,,,,,,,2026-04-06
+4324995910,node,https://www.openstreetmap.org/node/4324995910,,,,,,,,40.5011221,18.1183724,,,,,,,,2026-04-06
+4325276208,node,https://www.openstreetmap.org/node/4325276208,Defibrillatore DAE presso Hotel La Perla,,,,,,,40.5013929,18.117348,,,,,,,,2026-04-06
+4327146486,node,https://www.openstreetmap.org/node/4327146486,Defibrillatore DAE presso Campo sportivo comunale,,Via Cellino,,Campi Salentina,,,40.4055623,18.0204427,,,,,,,,2026-04-06
+4327151569,node,https://www.openstreetmap.org/node/4327151569,Defibrillatore DAE presso Palazzetto dello sport,,Via Guglielmo Marconi,,Campi Salentina,,,40.3948509,18.0295515,,,,,,,,2026-04-06
+4327167708,node,https://www.openstreetmap.org/node/4327167708,Defibrillatore DAE presso Cliocom,,,,,,,40.3520505,18.1828085,,,,,,,,2026-04-06
+4332220256,node,https://www.openstreetmap.org/node/4332220256,Defibrillatore DAE presso Maneggio Complesso delle Rose,,Strada Provinciale Morciano - Torre Vado,,Morciano di Leuca,,,39.8410599,18.2933354,,,,,,,,2026-04-06
+4333654446,node,https://www.openstreetmap.org/node/4333654446,Defibrillatore DAE presso Darsena Punta del Sol,,Litoranea Sant'Isidoro,,Porto Cesareo,,,40.2526937,17.9080897,,,,,,,,2026-04-06
+4338138486,node,https://www.openstreetmap.org/node/4338138486,,,,,Melendugno,,,40.3090479,18.3956454,,,,,,,,2026-04-06
+4349042759,node,https://www.openstreetmap.org/node/4349042759,,,,,,,,40.2764551,15.7025543,,,,,,,,2026-04-06
+4361621664,node,https://www.openstreetmap.org/node/4361621664,Defibrillatore DAE presso Lido Bar Moro,,,,,,,39.8135721,18.3108139,,,,,,,,2026-04-06
+4378819640,node,https://www.openstreetmap.org/node/4378819640,postazione dae c/o Lido Molo 13,,,,,,,40.425764,18.2565181,,,,,,,,2026-04-06
+4379138785,node,https://www.openstreetmap.org/node/4379138785,Dae c/o Scuola S. Castromediano,,,,,,,40.3385692,18.1808799,,,,,,,,2026-04-06
+4387279025,node,https://www.openstreetmap.org/node/4387279025,DAE c/o Fiera del Levante 3,,,,,,,41.1353109,16.8364477,,,,,,,,2026-04-06
+4387298872,node,https://www.openstreetmap.org/node/4387298872,DAE c/o Fiera del Levante 2,,,,,,,41.1370926,16.8373114,,,,,,,,2026-04-06
+4387299110,node,https://www.openstreetmap.org/node/4387299110,DAE c/o Fiera del Levante 1,,,,,,,41.1368219,16.8363511,,,,,,,,2026-04-06
+4387300108,node,https://www.openstreetmap.org/node/4387300108,DAE c/o Fiera del Levante 9,,,,,,,41.1354199,16.8391031,,,,,,,,2026-04-06
+4387300346,node,https://www.openstreetmap.org/node/4387300346,DAE c/o Fiera del Levante 5,,,,,,,41.1359845,16.8387783,,,,,,,,2026-04-06
+4387300659,node,https://www.openstreetmap.org/node/4387300659,DAE c/o Fiera del Levante 4,,,,,,,41.1369148,16.839779,,,,,,,,2026-04-06
+4387301298,node,https://www.openstreetmap.org/node/4387301298,DAE c/o Fiera del Levante 6,,,,,,,41.1363924,16.8407827,,,,,,,,2026-04-06
+4387301877,node,https://www.openstreetmap.org/node/4387301877,DAE c/o Fiera del Levante 8,,,,,,,41.1352018,16.8423003,,,,,,,,2026-04-06
+4387302876,node,https://www.openstreetmap.org/node/4387302876,DAE c/o Fiera del Levante 7,,,,,,,41.1343129,16.8399936,,,,,,,,2026-04-06
+4399071731,node,https://www.openstreetmap.org/node/4399071731,postazione dae c/o Interfrutta  Z.I. zona 3 celeste Lecce,,,,,,,40.3778954,18.1298536,,,,,,,,2026-04-06
+4417808429,node,https://www.openstreetmap.org/node/4417808429,Defibrillatore DAE presso Studio Dentistico Ass. Marzano Petrillo,,Via Torquato Tasso,1,Nardò,,,40.1761728,18.0331942,,,,,,,,2026-04-06
+4418937492,node,https://www.openstreetmap.org/node/4418937492,DAE presso Farmacia Migali,,,,,,,40.3608395,18.1806765,,,,,,,,2026-04-06
+4419397463,node,https://www.openstreetmap.org/node/4419397463,Postazione dae c/o studio dentistico Petrillo,,,,,,,40.3545986,18.1779104,,,,,,,,2026-04-06
+4429378164,node,https://www.openstreetmap.org/node/4429378164,,,,,,,,40.5318708,17.5940073,,permissive,,,,,,2026-04-06
+4429402443,node,https://www.openstreetmap.org/node/4429402443,posta centrale,,,,,,,40.532897,17.5849367,,,,,,,,2026-04-06
+4429404913,node,https://www.openstreetmap.org/node/4429404913,Piazzale Dimitri,,,,,,,40.5272903,17.5835217,,,,,,no,,2026-04-06
+4443270686,node,https://www.openstreetmap.org/node/4443270686,Studio Dentistico GALZ,,Via Cairoli,4,Borgagne,,,40.2400099,18.378765,,,,,,,,2026-04-06
+4456008283,node,https://www.openstreetmap.org/node/4456008283,postazione dae c/o Studio Dentistico Calò,,,,,,,40.3532803,18.1675378,,,,,,,,2026-04-06
+4458736317,node,https://www.openstreetmap.org/node/4458736317,studio dentistico Primo,,Viale Liguria,85,Taranto,,,40.4578339,17.2621585,,,,,,,,2026-04-06
+4483537657,node,https://www.openstreetmap.org/node/4483537657,,,,,,,,40.7230571,17.5793328,,,,,,,,2026-04-06
+4487644989,node,https://www.openstreetmap.org/node/4487644989,,,,,,,,40.6053596,17.2310857,,,,,,,,2026-04-06
+4492626789,node,https://www.openstreetmap.org/node/4492626789,Comunità Emmanuel Ariasana Villa Maria,,Via Pozzillo San Rocco,,Arnesano,,,40.3391154,18.0976751,,,,,,,,2026-04-06
+4493773085,node,https://www.openstreetmap.org/node/4493773085,"defibrillatore c/o Comunità Emmanuel ""Le Sorgenti ISMS""",,,,,,,40.358065,18.1181601,,,,,,,,2026-04-06
+4493774755,node,https://www.openstreetmap.org/node/4493774755,defibrillatore c/o Comunità Emmanuel Centro Base Villa Marsello Strda Provle Lecce Novoli 49,,,,,,,40.3605497,18.1012532,,,,,,,,2026-04-06
+4494121193,node,https://www.openstreetmap.org/node/4494121193,defibrillatore c/o residenza universitaria ADISU Lecce,,,,,,,40.3476499,18.1647116,,,,,,yes,,2026-04-06
+4494125967,node,https://www.openstreetmap.org/node/4494125967,DAE presso LAICA,,,,,,,40.3536488,18.1945798,,,,,,,,2026-04-06
+4526181880,node,https://www.openstreetmap.org/node/4526181880,DAE presso RSSA Prof G. Cucurachi Athena,,Via Salvo D'Acquisto,25,Calimera,,,40.2496602,18.2809665,,,,,,,,2026-04-06
+4552087350,node,https://www.openstreetmap.org/node/4552087350,postazione dae c/o Palestra Excite,,,,,,,40.3609655,18.1578966,,,,,,yes,,2026-04-06
+4552099584,node,https://www.openstreetmap.org/node/4552099584,postazione dae c/o Palestra Excite,,,,,,,40.3447211,18.1825795,,,,,,,,2026-04-06
+4563543927,node,https://www.openstreetmap.org/node/4563543927,,,,,,,,40.0337806,15.2885484,,,,,,,,2026-04-06
+4582855353,node,https://www.openstreetmap.org/node/4582855353,,,,,,,,40.2175975,14.9934213,,,,,,no,,2026-04-06
+4587506929,node,https://www.openstreetmap.org/node/4587506929,postazione dae c/o Istituto Marcelline,,,,,,,40.3488895,18.1741509,,,,,,,,2026-04-06
+4674128829,node,https://www.openstreetmap.org/node/4674128829,Dae McDonald's,,,,,,,40.3537256,18.1768031,,,,,,,,2026-04-06
+4702288101,node,https://www.openstreetmap.org/node/4702288101,Polo 1 Istituto comprensivo Michele Montinari,,,,,,,40.1735831,18.1657373,,,,,,,,2026-04-06
+4702295600,node,https://www.openstreetmap.org/node/4702295600,Polo 2 Istituto comprensivo,,,,,,,40.1665807,18.1604298,,,,,,,,2026-04-06
+4702297498,node,https://www.openstreetmap.org/node/4702297498,Polo 3 Istituto comprensivo,,,,,,,40.1764997,18.1772611,,,,,,,,2026-04-06
+4702300982,node,https://www.openstreetmap.org/node/4702300982,"Studio medico associato Candido, Galluccio, Maggio, Mauro",,,,,,,40.1754756,18.1742233,,,,,,,,2026-04-06
+4776721748,node,https://www.openstreetmap.org/node/4776721748,postazione dae c/o centro sportivo Kolbe,,,,,,,40.367024,18.196739,,,,,,,,2026-04-06
+4784595530,node,https://www.openstreetmap.org/node/4784595530,,,,,,,,40.6186893,17.902189,,,,,,yes,,2026-04-06
+4877394721,node,https://www.openstreetmap.org/node/4877394721,defibrillatore c/o Tribunale per i minorenni,,,,,,,40.351552,18.1627386,,,,,,,,2026-04-06
+4882920839,node,https://www.openstreetmap.org/node/4882920839,postazione dae c/o scuola di danza in punta di piedi,,,,,,,40.3583546,18.1788399,,,,,,,,2026-04-06
+4951628283,node,https://www.openstreetmap.org/node/4951628283,DAE c/o Torre Castiglione Camping,,,,,,,40.2917671,17.8186681,,,,,,,,2026-04-06
+5005222108,node,https://www.openstreetmap.org/node/5005222108,Spinazzola,,,,,,,40.9736662,16.084249,,,,,,,,2026-04-06
+5006005410,node,https://www.openstreetmap.org/node/5006005410,Defibrillatore - Farmacia D'Innella,Defibrillatore Semiautomatico Fred Easy on-line,"Corso Umberto I, SP 230",72,Spinazzola,,,40.9681691,16.0907376,,,,+39 0883 681286,,yes,,2026-04-06
+5006005411,node,https://www.openstreetmap.org/node/5006005411,"Defibrillatore - Farmacia Rinella, Spinazzola",Defibrillatore Semiautomatico Fred Easy on-line Serial Nr. : 30003029,,,,,,40.968957,16.0883531,,,,+39 0883 681337,,yes,,2026-04-06
+5012391714,node,https://www.openstreetmap.org/node/5012391714,"Defibrillatore - Ufficio Polizia Municipale, Spinazzola",Defibrillatore Semiautomatico Fred Easy on-line Serial Nr. : 30003080,Via Cairoli,1,Spinazzola,76014,BT,40.9694289,16.0897756,,,,+39 0883 681114,,yes,,2026-04-06
+5012391715,node,https://www.openstreetmap.org/node/5012391715,"Defibrillatore - Istituto Comprensivo ""Mazzini-De Cesare""",,Via Nazario Sauro,2,Spinazzola,76014,BT,40.9692738,16.0884927,,,,+39 0883 681347,,yes,,2026-04-06
+5083563583,node,https://www.openstreetmap.org/node/5083563583,DAE presso Farmacia De Pace Licignano,,,,,,,40.3520898,18.1810449,,,,,,,,2026-04-06
+5099348396,node,https://www.openstreetmap.org/node/5099348396,,Palestra INFORMA GYM & FITNESS Spinazzola,Galleria Mirenzi,,Spinazzola,76014,BT,40.9684015,16.0881517,Mo-Su 10:00-22:00,private,,+39 0883 766653,,yes,,2026-04-06
+5111136164,node,https://www.openstreetmap.org/node/5111136164,DAE c/o Lido Camillo,,,,,,,40.1479625,18.4873769,,,,,,,,2026-04-06
+5126191131,node,https://www.openstreetmap.org/node/5126191131,DAE c/o 4 Colonne,,,,,,,40.1250547,17.9975006,,,,,,,,2026-04-06
+5185744841,node,https://www.openstreetmap.org/node/5185744841,Defibrillatore Matera_Cardiosicura,,,,,,,40.7219363,16.5803808,,,,,,,,2026-04-06
+5185744842,node,https://www.openstreetmap.org/node/5185744842,Defibrillatore Matera_Cardiosicura,,,,,,,40.6610947,16.5359952,,,,,,,,2026-04-06
+5185744843,node,https://www.openstreetmap.org/node/5185744843,Defibrillatore Matera_Cardiosicura,,,,,,,40.6700665,16.6065246,,,,,,,,2026-04-06
+5185744844,node,https://www.openstreetmap.org/node/5185744844,Defibrillatore Matera_Cardiosicura,,,,,,,40.6650922,16.6067514,,,,,,,,2026-04-06
+5185744845,node,https://www.openstreetmap.org/node/5185744845,Defibrillatore Matera_Cardiosicura,,,,,,,40.6645614,16.6115728,,,,,,,,2026-04-06
+5185744846,node,https://www.openstreetmap.org/node/5185744846,Defibrillatore Matera_Cardiosicura,,,,,,,40.6679043,16.6103614,,,,,,no,,2026-04-06
+5185744847,node,https://www.openstreetmap.org/node/5185744847,Defibrillatore Matera_Cardiosicura,,,,,,,40.666575,16.6022142,,,,,,no,,2026-04-06
+5185744848,node,https://www.openstreetmap.org/node/5185744848,Defibrillatore Matera_Cardiosicura,,,,,,,40.665361,16.6094528,,,,,,,,2026-04-06
+5185744849,node,https://www.openstreetmap.org/node/5185744849,Defibrillatore Matera_Cardiosicura,,,,,,,40.6632798,16.6100857,,,,,,no,,2026-04-06
+5185744850,node,https://www.openstreetmap.org/node/5185744850,Defibrillatore Matera_Cardiosicura,,,,,,,40.6664698,16.6063217,,,,,,,,2026-04-06
+5257597872,node,https://www.openstreetmap.org/node/5257597872,A.S.D. Bianco Team,,,,,,,40.361806,18.2046824,,,,,,,,2026-04-06
+5348646107,node,https://www.openstreetmap.org/node/5348646107,"postazione dae c/o I circolo didattico ""Cesare Battisti""",,,,,,,40.3542818,18.1754379,,,,,,yes,,2026-04-06
+5348659431,node,https://www.openstreetmap.org/node/5348659431,DAE c/o scuola dell'infanzia,,,,,,,40.3555863,18.1873224,,,,,,,,2026-04-06
+5435336818,node,https://www.openstreetmap.org/node/5435336818,,,,,,,,40.6458793,17.5168033,,,,,,,,2026-04-06
+5508453496,node,https://www.openstreetmap.org/node/5508453496,"postazione dae c/o ""UN PASSO VERSO IL SOLE""",,,,,,,40.3624284,18.1829304,,,,,,,,2026-04-06
+5588855626,node,https://www.openstreetmap.org/node/5588855626,,,,,,,,40.5873252,17.1156175,,,,,,,,2026-04-06
+5597905032,node,https://www.openstreetmap.org/node/5597905032,Defibrillatore DAE presso Palestra della Scuola Elementare,,,,,,,40.1496231,18.3178128,,,,,,,,2026-04-06
+5737548491,node,https://www.openstreetmap.org/node/5737548491,DAE 24h,,,,,,,39.9361943,18.1171053,,,,,,,,2026-04-06
+5751852445,node,https://www.openstreetmap.org/node/5751852445,DAE c/o Lido Mania stagionale,,,,,,,39.8592659,18.1622324,,,,,,,,2026-04-06
+5760222509,node,https://www.openstreetmap.org/node/5760222509,,,,,,,,40.5991865,15.5062159,,,,,,,,2026-04-06
+5760222510,node,https://www.openstreetmap.org/node/5760222510,,,,,,,,40.6039317,15.5100349,,,,,,,,2026-04-06
+5760222511,node,https://www.openstreetmap.org/node/5760222511,,,,,,,,40.5996042,15.5070844,,,,,,,,2026-04-06
+5760222512,node,https://www.openstreetmap.org/node/5760222512,,,,,,,,40.5984271,15.5077308,,,,,,,,2026-04-06
+5781412672,node,https://www.openstreetmap.org/node/5781412672,"postazione dae c/o Conservatorio Musicale ""Tito Schipa""",,,,,,,40.3484898,18.1898822,,,,,,,,2026-04-06
+5866432127,node,https://www.openstreetmap.org/node/5866432127,Defibrillatore - DAE,Website: http://www.latronico.eu,,14,Latronico,85043,Potenza,40.087975,16.0106714,24/7,yes,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,0,2026-04-06
+5936341040,node,https://www.openstreetmap.org/node/5936341040,DAE c/o Maybe wellness,,,,,,,40.3383764,18.1764961,,,,,,,,2026-04-06
+5983322881,node,https://www.openstreetmap.org/node/5983322881,DAE presso Istituto Comprensivo Chiarelli,,Via Carmine,4,,,,40.7082821,17.3337735,,,,+39 080 4836566,,yes,,2026-04-06
+5983323223,node,https://www.openstreetmap.org/node/5983323223,DAE presso Circolo S. Allende L’Arcallegra,,Via Bellavista,10,,,,40.710012,17.333126,"Mo-Fr 08:30-12:30,15:00-19:00",,,+39 080 4808021,,,,2026-04-06
+5983323224,node,https://www.openstreetmap.org/node/5983323224,DAE presso ITCG L. Da Vinci (plesso Geometri),,Via Pergolo,58,,,,40.6896224,17.3220897,,,,+39 080 4803653,,,,2026-04-06
+5983323225,node,https://www.openstreetmap.org/node/5983323225,DAE presso I.p.s.s. A. Motolese,,Via Carmine,10,,,,40.7091759,17.333002,,,,+39 080 4831681,,yes,,2026-04-06
+5983323226,node,https://www.openstreetmap.org/node/5983323226,DAE presso Istituto Comprensivo Aosta,,Piazza Vittorio Veneto,6,,,,40.7020683,17.3407144,,,,+39 080 4836507,,,,2026-04-06
+5983323227,node,https://www.openstreetmap.org/node/5983323227,DAE presso Istituto Conprensivo Marconi,,Piazza Marconi,4,,,,40.7011672,17.3391481,,,,+39 080 483 6540,,yes,,2026-04-06
+5983323228,node,https://www.openstreetmap.org/node/5983323228,DAE presso Istituto Comprensivo Grassi,,Viale della Stazione,13,,,,40.7016408,17.3319026,,,,+39 080 4832702,,yes,,2026-04-06
+5983323229,node,https://www.openstreetmap.org/node/5983323229,DAE presso Istituto Comprensivo Giovanni XXIII,,Piazza San Francesco Da Paola,,,,,40.7049209,17.3438007,,,,+39 080 4306778,,,,2026-04-06
+5983323230,node,https://www.openstreetmap.org/node/5983323230,DAE presso Campo Pergolo,,Via Pergolo,,,,,40.6882042,17.3242435,,,,,,,,2026-04-06
+5983323231,node,https://www.openstreetmap.org/node/5983323231,DAE presso Palazzetto dello Sport “Palawojtyla”,,Via Pergolo,,,,,40.6887585,17.3246888,,,,+39 080 4836335,,,,2026-04-06
+5983922091,node,https://www.openstreetmap.org/node/5983922091,DAE di Piazza Plebiscito,,,,,,,40.7056477,17.3365552,24/7,,,,,no,,2026-04-06
+5983922094,node,https://www.openstreetmap.org/node/5983922094,DAE presso stazione di servizio Agip,,Via Papa Leone XIII,,,,,40.6966786,17.339539,,,,,,,,2026-04-06
+5983922095,node,https://www.openstreetmap.org/node/5983922095,DAE presso A.s.d. Red Boys,,Viale Europa,15,,,,40.7045033,17.3443039,,,,,,,,2026-04-06
+5983922096,node,https://www.openstreetmap.org/node/5983922096,DAE presso CRI Comitato di Martina Franca,,Viale Europa,88bis,,,,40.7039015,17.3448771,,,,+39 080 4831627,,,,2026-04-06
+5983922097,node,https://www.openstreetmap.org/node/5983922097,DAE presso Nucleo Protezione Civile Associazione Nazionale Carabinieri,,Via Pietro Scialpi,,,,,40.7014423,17.3411079,,,,,,,,2026-04-06
+5983922100,node,https://www.openstreetmap.org/node/5983922100,DAE presso CAV Coordinamento Associazioni di Volontariato,,Via Mottola,1b,,,,40.7055642,17.3309248,"08:30-12:30,17:00-23:00",,,,,,,2026-04-06
+5983922101,node,https://www.openstreetmap.org/node/5983922101,DAE presso AIA Club e Comitato Uisp Valle d’Itria,,Via Santa Maria Domenica Mazzarello,,,,,40.7014754,17.3291388,Mo-Fr 16:00-20:00,,,+39 080 2376243,,,,2026-04-06
+5983922134,node,https://www.openstreetmap.org/node/5983922134,DAE presso La Palestra,,Corso dei Mille,184,,,,40.7033034,17.3315666,Mo-Fr 09:00-22:00; Sa 09:00-19:00,,,+39 080 4834704,,,,2026-04-06
+5983922140,node,https://www.openstreetmap.org/node/5983922140,Polisportiva Arci Martina,,Via Giuseppe Chiarelli,18,,,,40.697588,17.3449274,"Mo,We,Fr 09:30-21:30,15:00-21:30; Tu,Th 09:30-12:30,15:00-21:30",,,+39 080 4805759,,,,2026-04-06
+5983922161,node,https://www.openstreetmap.org/node/5983922161,DAE di Piazza XX Settembre,,Piazza XX Settembre,,,,,40.7043445,17.3401278,24/7,,,,,yes,,2026-04-06
+5983922166,node,https://www.openstreetmap.org/node/5983922166,DAE presso Scuola Elementare San Paolo,,,,,,,40.6428298,17.3201873,,,,+39 080 4490012,,,,2026-04-06
+6006707497,node,https://www.openstreetmap.org/node/6006707497,Dae Castello Carlo V Info Point,,,,,,,40.352378,18.1744482,,,,,,yes,,2026-04-06
+6045646248,node,https://www.openstreetmap.org/node/6045646248,DAE presso Crossfit Sud ASD,,,,,,,40.3490106,18.1499283,,,,,,,,2026-04-06
+6121273884,node,https://www.openstreetmap.org/node/6121273884,DAE 24H,,,,,,,40.1470567,18.0703005,,,,,,no,,2026-04-06
+6123050070,node,https://www.openstreetmap.org/node/6123050070,,,,,,,,40.5747264,15.7843331,,,,,,yes,,2026-04-06
+6123078325,node,https://www.openstreetmap.org/node/6123078325,,,,,,,,40.5664262,15.7692515,,,,,,,,2026-04-06
+6352388243,node,https://www.openstreetmap.org/node/6352388243,DAE 24h c/o Torre Normanna Sveva,,,,,,,40.7412506,17.425635,,,,,,,,2026-04-06
+6361849770,node,https://www.openstreetmap.org/node/6361849770,DAE c/o Unibas,,,,,,,40.6323329,15.8080912,,,,,,,,2026-04-06
+6378870916,node,https://www.openstreetmap.org/node/6378870916,postazione dae presso Campus ECOTEKNE College ISUFI,,,,,,,40.3369487,18.1240799,,,,,,,,2026-04-06
+6378881722,node,https://www.openstreetmap.org/node/6378881722,postazione dae presso Rettorato Università del Salento,,,,,,,40.3497084,18.1672741,,,,,,yes,,2026-04-06
+6378893162,node,https://www.openstreetmap.org/node/6378893162,postazione dae presso Università del Salento sede ex Sperimentale Tabacchi,,,,,,,40.3584422,18.168113,,,,,,,,2026-04-06
+6378906806,node,https://www.openstreetmap.org/node/6378906806,postazione dae presso Università del salento sede EDIFICIO  STUDIUM 6,,,,,,,40.3585204,18.166251,,,,,,,,2026-04-06
+6379323570,node,https://www.openstreetmap.org/node/6379323570,postazione dae presso Campus ECOTEKNE Edificio Centro Congressi,,,,,,,40.3348284,18.1173953,,,,,,,,2026-04-06
+6433916294,node,https://www.openstreetmap.org/node/6433916294,Defibrillatore - DAE,,Calda di Latronico,,Latronico,85043,Potenza,40.0850333,15.9832142,24/7,,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,,2026-04-06
+6433924396,node,https://www.openstreetmap.org/node/6433924396,Defibrillatore - DAE,,Via Provinciale - Mileo,,Agromonte Mileo,85043,Potenza,40.0587759,16.0304592,24/7,,Comune di Latronico - Progetto Latronico Cardioprotetta,,,no,,2026-04-06
+6485984549,node,https://www.openstreetmap.org/node/6485984549,,,,,,,,40.6341075,17.9429632,,,,,,,,2026-04-06
+6517744395,node,https://www.openstreetmap.org/node/6517744395,DAE 24h c/o Scuola Elementare,,,,,,,40.4751455,15.8473197,,,,,,,,2026-04-06
+6581274197,node,https://www.openstreetmap.org/node/6581274197,,,,,,,,40.3266118,18.0977247,,,,,,yes,,2026-04-06
+6681694500,node,https://www.openstreetmap.org/node/6681694500,DAE Farmacia Scardia,,,,,,,39.930902,18.3572586,,,,,,yes,,2026-04-06
+6708592591,node,https://www.openstreetmap.org/node/6708592591,Dae c/o Lido Beija-Flor,,,,,,,40.1397206,17.9843097,,,,,,,,2026-04-06
+6779563385,node,https://www.openstreetmap.org/node/6779563385,,,,,,,,39.8141065,15.7919695,,,,,,,,2026-04-06
+6779677952,node,https://www.openstreetmap.org/node/6779677952,,,,,,,,40.0561215,17.9926441,,,Città di Gallipoli,,2,,,2026-04-06
+6838291846,node,https://www.openstreetmap.org/node/6838291846,DAE presso MUV,,Via Vittorio Bachelet,,Lecce,73100,LE,40.3580481,18.1971522,Mo-Fr 07:30-22:00; Sa 09:00-19:00; Su 09:00-13:00,,,,,,,2026-04-06
+6843853810,node,https://www.openstreetmap.org/node/6843853810,DAE presso Farmacia Moschettini,,Viale della Libertà,61,Lecce,73100,LE,40.3568949,18.1856837,,,,,,,,2026-04-06
+6898409443,node,https://www.openstreetmap.org/node/6898409443,DAE Proloco Melfi,,,,,,,40.9963999,15.6557411,,,,,,,,2026-04-06
+6982484547,node,https://www.openstreetmap.org/node/6982484547,,,Piazza Vittorio Emanuele II,,Brindisi,,,40.6395965,17.9481331,,,,,,no,,2026-04-06
+7017581829,node,https://www.openstreetmap.org/node/7017581829,,,,,,,,39.9748946,18.3250402,,,,,,,,2026-04-06
+7319717846,node,https://www.openstreetmap.org/node/7319717846,DAE presso Farmacia Ferocino,,,,,,,40.3528566,18.1731313,,,,,,yes,,2026-04-06
+7326395325,node,https://www.openstreetmap.org/node/7326395325,DAE presso Farmacia Elia,,,,,,,40.3437643,18.1750358,,,,,,,,2026-04-06
+7330112385,node,https://www.openstreetmap.org/node/7330112385,DAE presso Farmacia Messa,,,,,,,40.3591565,18.1927872,,,,,,,,2026-04-06
+7330112387,node,https://www.openstreetmap.org/node/7330112387,DAE presso Farmacia De Pascalis,,,,,,,40.3518257,18.1618978,,,,,,,,2026-04-06
+7815429190,node,https://www.openstreetmap.org/node/7815429190,Istituto comprensivo Eleonora Duse - Sede centrale,,,,,,,41.1361167,16.8157082,,,Istituto Comprensivo Eleonora Duse,,,yes,,2026-04-06
+7817347189,node,https://www.openstreetmap.org/node/7817347189,,,,,,,,40.7325197,17.5779958,,,,,,,,2026-04-06
+7840247144,node,https://www.openstreetmap.org/node/7840247144,Defibrillatore Papeete,,,,,,,39.836501,18.22912,,,,,,,,2026-04-06
+7840552206,node,https://www.openstreetmap.org/node/7840552206,,,,,,,,39.8358421,18.2326412,,,,,,,,2026-04-06
+7859611001,node,https://www.openstreetmap.org/node/7859611001,,,,,,,,40.7840394,17.2374421,,,,,,,,2026-04-06
+7862974213,node,https://www.openstreetmap.org/node/7862974213,,,,,,,,40.7527143,17.3309543,,,,,,no,,2026-04-06
+8095206138,node,https://www.openstreetmap.org/node/8095206138,,,,,,,,41.5105537,15.3306938,,,,,,no,,2026-04-06
+8349607402,node,https://www.openstreetmap.org/node/8349607402,,,,,,,,41.3088252,16.2655332,,,,,,,,2026-04-06
+8677521217,node,https://www.openstreetmap.org/node/8677521217,,,,,,,,41.2325862,16.4982275,,,,,,no,,2026-04-06
+8694442104,node,https://www.openstreetmap.org/node/8694442104,,,,,,,,41.2396316,16.5017151,,,,,,no,,2026-04-06
+8707464186,node,https://www.openstreetmap.org/node/8707464186,Laboratorio Anlisi R.AN.A.,,,,,,,41.2383209,16.5006347,,,,,,yes,,2026-04-06
+9044281343,node,https://www.openstreetmap.org/node/9044281343,,,,,,,,40.9533959,17.3033429,,,,,,no,,2026-04-06
+9076551555,node,https://www.openstreetmap.org/node/9076551555,,,,,,,,41.1167014,16.5805798,,,,,,no,,2026-04-06
+9230547594,node,https://www.openstreetmap.org/node/9230547594,,,,,,,,41.7084461,15.7050595,,,,,,,0,2026-04-06
+9267530218,node,https://www.openstreetmap.org/node/9267530218,,,,,,,,40.9513014,17.3020729,24/7,,,,,no,0,2026-04-06
+9269877617,node,https://www.openstreetmap.org/node/9269877617,,,,,,,,40.7546541,17.3270489,24/7,yes,,,,,0,2026-04-06
+9271937793,node,https://www.openstreetmap.org/node/9271937793,,,,,,,,40.9938967,17.2285395,,,,,,,,2026-04-06
+9280249254,node,https://www.openstreetmap.org/node/9280249254,,,,,,,,40.9536772,17.3014212,,,,,,yes,,2026-04-06
+9442384411,node,https://www.openstreetmap.org/node/9442384411,,,,,,,,40.7004866,17.34369,,,,,,,,2026-04-06
+9442409094,node,https://www.openstreetmap.org/node/9442409094,,,,,,,,40.7053975,17.3395747,Mo-Su 07:00-20:30,,,,,yes,,2026-04-06
+9453640749,node,https://www.openstreetmap.org/node/9453640749,,,,,,,,40.3347615,18.2971957,,,,,,no,,2026-04-06
+9487465531,node,https://www.openstreetmap.org/node/9487465531,,,,,,,,40.3190841,18.2804819,,,,,,,,2026-04-06
+9561056782,node,https://www.openstreetmap.org/node/9561056782,,,,,,,,40.6964432,17.3437119,,,,,,no,,2026-04-06
+9566468715,node,https://www.openstreetmap.org/node/9566468715,DAE Farmacia Comunale,,,,,,,39.983491,18.2479304,,,,,,,,2026-04-06
+9639574456,node,https://www.openstreetmap.org/node/9639574456,DAE c/o Scuola Ungaretti,,,,,,,41.129914,16.7837151,,,,,,yes,,2026-04-06
+9663284074,node,https://www.openstreetmap.org/node/9663284074,DAE c/o IISS Dell'Erba,,,,,,,40.8851579,17.1612957,,,,,,yes,,2026-04-06
+9674996069,node,https://www.openstreetmap.org/node/9674996069,,,,,,,,40.5854474,17.1120638,,,,,,,,2026-04-06
+9675591411,node,https://www.openstreetmap.org/node/9675591411,,,,,,,,40.3219212,17.571754,,,,,,no,,2026-04-06
+9690454593,node,https://www.openstreetmap.org/node/9690454593,,,,,,,,41.1173683,16.487258,,,,,,,,2026-04-06
+9708646955,node,https://www.openstreetmap.org/node/9708646955,,,,,,,,40.4037062,17.5571263,,,,,,,,2026-04-06
+9708646961,node,https://www.openstreetmap.org/node/9708646961,,,,,,,,40.3992434,17.6352834,,,,,,no,,2026-04-06
+9716271663,node,https://www.openstreetmap.org/node/9716271663,,,,,,,,40.2035938,18.302006,,,,,,,,2026-04-06
+9716271696,node,https://www.openstreetmap.org/node/9716271696,,,,,,,,40.1758327,18.2968558,,,,,,,,2026-04-06
+9717428699,node,https://www.openstreetmap.org/node/9717428699,,,,,,,,40.2194937,18.2255182,,,,,,,,2026-04-06
+9721015982,node,https://www.openstreetmap.org/node/9721015982,,,,,,,,40.2662854,18.1835273,,,,,,,,2026-04-06
+9721102446,node,https://www.openstreetmap.org/node/9721102446,,,,,,,,40.2586987,17.8906058,,,,,,,,2026-04-06
+9721901686,node,https://www.openstreetmap.org/node/9721901686,,,,,,,,41.998248,14.9855082,,,,,,,,2026-04-06
+9723713392,node,https://www.openstreetmap.org/node/9723713392,,,,,,,,41.1863501,16.6680456,,,,,,,,2026-04-06
+9726046705,node,https://www.openstreetmap.org/node/9726046705,,,,,,,,41.013767,17.1926042,,yes,,,,,,2026-04-06
+9737994929,node,https://www.openstreetmap.org/node/9737994929,,,,,,,,40.6235825,16.7992973,,yes,,,,,,2026-04-06
+9737994930,node,https://www.openstreetmap.org/node/9737994930,,,,,,,,40.5883247,17.1120362,,yes,,,,,,2026-04-06
+9737994931,node,https://www.openstreetmap.org/node/9737994931,,,,,,,,40.6047934,17.2316225,,yes,,,,,,2026-04-06
+9739834882,node,https://www.openstreetmap.org/node/9739834882,,,,,,,,40.5780016,16.7576614,,yes,,,,,,2026-04-06
+9800973652,node,https://www.openstreetmap.org/node/9800973652,,,,,,,,40.6651355,16.6066084,,,,,,yes,,2026-04-06
+9814107553,node,https://www.openstreetmap.org/node/9814107553,,,,,,,,41.1851138,16.6703728,,,,,,no,,2026-04-06
+9952135305,node,https://www.openstreetmap.org/node/9952135305,,,,,,,,40.6608859,17.9620503,,,,,,yes,,2026-04-06
+9974586866,node,https://www.openstreetmap.org/node/9974586866,,,,,,,,40.1416479,15.6061792,,,,,,,,2026-04-06
+9996873972,node,https://www.openstreetmap.org/node/9996873972,,,,,,,,40.7964035,17.1215721,24/7,yes,,,,no,0,2026-04-06
+10031520342,node,https://www.openstreetmap.org/node/10031520342,C/o Centro commerciale,,,,,,,40.7759957,17.3366954,,,,,,,,2026-04-06
+10031567972,node,https://www.openstreetmap.org/node/10031567972,,,,,,,,40.6279231,16.7981527,24/7,yes,,,,,0,2026-04-06
+10031983324,node,https://www.openstreetmap.org/node/10031983324,,,,,,,,40.5792312,17.0349066,24/7,yes,,,,,0,2026-04-06
+10033382929,node,https://www.openstreetmap.org/node/10033382929,,,,,,,,40.5439573,15.640248,,,,,,no,,2026-04-06
+10041475253,node,https://www.openstreetmap.org/node/10041475253,,,,,,,,40.7938047,17.1251128,24/7,yes,,+39 118,,no,0,2026-04-06
+10053779936,node,https://www.openstreetmap.org/node/10053779936,,,,,,,,40.9547331,17.2940404,24/7,yes,,,,no,0,2026-04-06
+10053837178,node,https://www.openstreetmap.org/node/10053837178,,,,,,,,40.8345985,17.3661266,,,,,,yes,,2026-04-06
+10270354275,node,https://www.openstreetmap.org/node/10270354275,,,,,,,,41.0490227,16.9221785,,yes,Comune ei Capurso,,,no,,2026-04-06
+10271421689,node,https://www.openstreetmap.org/node/10271421689,,,,,,,,41.048725,16.9188766,,yes,Comune di Capurso,,,no,,2026-04-06
+10328666503,node,https://www.openstreetmap.org/node/10328666503,,,,,,,,40.4571572,17.2753002,,,,,,yes,,2026-04-06
+10586851562,node,https://www.openstreetmap.org/node/10586851562,,,,,,,,41.995195,14.9733185,,,,,,yes,,2026-04-06
+10737245247,node,https://www.openstreetmap.org/node/10737245247,DAE c/o Liceo Cafiero,,,,,,,41.3127587,16.2856545,,,,,,,,2026-04-06
+10779552508,node,https://www.openstreetmap.org/node/10779552508,,,,,,,,39.8865029,18.1139634,,no,,,,yes,0,2026-04-06
+10837797084,node,https://www.openstreetmap.org/node/10837797084,,,,,,,,39.9603101,18.2064061,,yes,Protezione Civile Falchi del Salento,,,no,,2026-04-06
+10840343792,node,https://www.openstreetmap.org/node/10840343792,,,,,,,,40.1013335,18.449587,,yes,,,,,,2026-04-06
+11048217274,node,https://www.openstreetmap.org/node/11048217274,,,,,,,,41.7355055,16.1185664,,,,,,,,2026-04-06
+11051917231,node,https://www.openstreetmap.org/node/11051917231,,,,,,,,41.7075246,16.04915,24/7,yes,,,,,,2026-04-06
+11059571846,node,https://www.openstreetmap.org/node/11059571846,,,,,,,,40.0548648,17.9759209,24/7,yes,,,,,0,2026-04-06
+11059733461,node,https://www.openstreetmap.org/node/11059733461,,,,,,,,40.0890015,18.013455,24/7,yes,,,,no,0,2026-04-06
+11060559136,node,https://www.openstreetmap.org/node/11060559136,,,,,,,,40.0915612,18.0121707,24/7,yes,,,,no,0,2026-04-06
+11061450845,node,https://www.openstreetmap.org/node/11061450845,,,,,,,,40.0559125,17.9811932,24/7,yes,,,,no,0,2026-04-06
+11068802678,node,https://www.openstreetmap.org/node/11068802678,,,,,,,,40.0122596,18.4322116,,,,,,,0,2026-04-06
+11070155139,node,https://www.openstreetmap.org/node/11070155139,,,,,,,,40.005825,18.4273623,24/7,yes,,,,,0,2026-04-06
+11072734514,node,https://www.openstreetmap.org/node/11072734514,,,,,,,,40.0395481,18.4126665,24/7,yes,,,,no,0,2026-04-06
+11073082989,node,https://www.openstreetmap.org/node/11073082989,,,,,,,,40.052685,18.378101,24/7,yes,,,,no,0,2026-04-06
+11085743447,node,https://www.openstreetmap.org/node/11085743447,,,,,,,,41.9140604,14.913107,,,,,,,,2026-04-06
+11097467873,node,https://www.openstreetmap.org/node/11097467873,,,,,,,,40.7431142,17.4256495,,,,,,no,,2026-04-06
+11115869305,node,https://www.openstreetmap.org/node/11115869305,,vor dem Gebäudeeingang auf dem Gehsteig,,,,,,39.9584425,18.2188901,24/7,yes,Gemeinde,,,no,,2026-04-06
+11178488963,node,https://www.openstreetmap.org/node/11178488963,DAE c/o Scuola De Amicis,,,,,,,40.8953873,16.8413288,,,,,,yes,,2026-04-06
+11250545899,node,https://www.openstreetmap.org/node/11250545899,,,,,,,,41.0816326,16.7797853,,yes,,,,no,,2026-04-06
+11303335935,node,https://www.openstreetmap.org/node/11303335935,,,,,,,,41.0826524,16.7821449,,,,,,,,2026-04-06
+11366791060,node,https://www.openstreetmap.org/node/11366791060,,,,,,,,41.2466574,16.29687,,,,,,yes,,2026-04-06
+11366801777,node,https://www.openstreetmap.org/node/11366801777,,,,,,,,41.1178997,16.8697607,,yes,Rete Ferroviaria Italiana,,,yes,,2026-04-06
+11373944295,node,https://www.openstreetmap.org/node/11373944295,,,,,,,,40.5806234,17.8361968,,,,,,yes,,2026-04-06
+11379929446,node,https://www.openstreetmap.org/node/11379929446,,,,,,,,40.3740049,18.147009,,,,,,yes,,2026-04-06
+11381305675,node,https://www.openstreetmap.org/node/11381305675,,,,,,,,40.2934039,18.197556,,,,,,yes,,2026-04-06
+11399805440,node,https://www.openstreetmap.org/node/11399805440,,,,,,,,40.3533424,17.3637005,,,,,,no,,2026-04-06
+11405660683,node,https://www.openstreetmap.org/node/11405660683,,,,,,,,40.5625716,17.3343267,,,,,,no,,2026-04-06
+11411969459,node,https://www.openstreetmap.org/node/11411969459,,,,,,,,40.1799624,16.582865,,,,,,no,,2026-04-06
+11414497070,node,https://www.openstreetmap.org/node/11414497070,,,,,,,,39.7915916,16.4788931,,,,,,no,,2026-04-06
+11453002604,node,https://www.openstreetmap.org/node/11453002604,,,,,,,,41.1304209,16.5551,,yes,,,,no,,2026-04-06
+11458149879,node,https://www.openstreetmap.org/node/11458149879,,,,,,,,41.1077377,16.6915051,,,,,,no,,2026-04-06
+11472333418,node,https://www.openstreetmap.org/node/11472333418,,,Piazza Vittorio Emanuele II,,Giovinazzo,,,41.1879765,16.6726193,,,,,,no,,2026-04-06
+11506243872,node,https://www.openstreetmap.org/node/11506243872,,,,,,,,41.4539345,15.5504572,,,,,,yes,,2026-04-06
+11514376808,node,https://www.openstreetmap.org/node/11514376808,DAE C/o Farmacia H24,,,,,,,40.9526318,17.301178,,,,,,,,2026-04-06
+11655780709,node,https://www.openstreetmap.org/node/11655780709,,,,,,,,41.127907,16.8604206,,,,,,yes,,2026-04-06
+11655780710,node,https://www.openstreetmap.org/node/11655780710,,,,,,,,41.1279025,16.8579527,,,,,,yes,,2026-04-06
+11688234259,node,https://www.openstreetmap.org/node/11688234259,,,,,,,,41.8827814,16.1802808,,,,,,no,,2026-04-06
+11744041688,node,https://www.openstreetmap.org/node/11744041688,,,,,,,,40.0744139,15.5289273,,,,,,no,,2026-04-06
+11745256912,node,https://www.openstreetmap.org/node/11745256912,,,,,,,,40.0496501,15.4500768,,,,,,no,,2026-04-06
+11745774690,node,https://www.openstreetmap.org/node/11745774690,,,,,,,,40.0211643,15.382046,,,,,,no,,2026-04-06
+11762088489,node,https://www.openstreetmap.org/node/11762088489,,,,,,,,40.6351741,14.9074381,,,,,,yes,,2026-04-06
+11777789599,node,https://www.openstreetmap.org/node/11777789599,,,,,,,,40.5589019,17.808994,,yes,,,,no,0,2026-04-06
+11949954788,node,https://www.openstreetmap.org/node/11949954788,,,,,,,,40.2810212,17.8405258,,,,,,yes,,2026-04-06
+12074156497,node,https://www.openstreetmap.org/node/12074156497,,,,,,,,40.2910052,14.9465859,,,,,,,,2026-04-06
+12110823689,node,https://www.openstreetmap.org/node/12110823689,,,,,,,,41.163204,16.7471744,,yes,,,,no,,2026-04-06
+12112405902,node,https://www.openstreetmap.org/node/12112405902,,,,,,,,41.1633737,16.7508531,,yes,,,,no,,2026-04-06
+12135553401,node,https://www.openstreetmap.org/node/12135553401,DAE c/o Scuola Ascanio grandi,,,,,,,40.3473453,18.1820661,,,,,,,,2026-04-06
+12150478337,node,https://www.openstreetmap.org/node/12150478337,,,,,,,,40.9689137,17.1150171,,,,,,no,,2026-04-06
+12158506766,node,https://www.openstreetmap.org/node/12158506766,,,,,,,,41.1534393,16.7650861,,,,,,no,,2026-04-06
+12163518438,node,https://www.openstreetmap.org/node/12163518438,,,,,,,,41.7063512,15.95297,,yes,,,,no,,2026-04-06
+12171369428,node,https://www.openstreetmap.org/node/12171369428,,,,,,,,40.1447546,18.4943628,,,,,,no,,2026-04-06
+12177030066,node,https://www.openstreetmap.org/node/12177030066,,,,,,,,41.1501322,16.7651972,,,,,,no,,2026-04-06
+12181788317,node,https://www.openstreetmap.org/node/12181788317,,,,,,,,41.10312,16.6874786,,,,,,yes,,2026-04-06
+12181788319,node,https://www.openstreetmap.org/node/12181788319,,,,,,,,41.1067462,16.690724,,,,,,yes,,2026-04-06
+12222007762,node,https://www.openstreetmap.org/node/12222007762,,,,,,,,40.1461307,18.4908609,,,,,,,,2026-04-06
+12244288483,node,https://www.openstreetmap.org/node/12244288483,,"After the entrance door on the right,green box on the wall.",,,,,,40.4232793,15.0070171,,yes,,,,yes,,2026-04-06
+12244288485,node,https://www.openstreetmap.org/node/12244288485,,,,,,,,40.4240346,15.0062648,,,,,,,,2026-04-06
+12248299469,node,https://www.openstreetmap.org/node/12248299469,,,,,,,,40.0505421,15.4498813,,yes,,,,no,,2026-04-06
+12250156036,node,https://www.openstreetmap.org/node/12250156036,,,,,,,,39.9958228,15.7223513,24/7,yes,,,,no,,2026-04-06
+12250747916,node,https://www.openstreetmap.org/node/12250747916,,,,,,,,40.6192038,15.05638,,yes,,,,no,,2026-04-06
+12291844743,node,https://www.openstreetmap.org/node/12291844743,,,,,,,,41.1144273,16.4860819,,,,,,no,,2026-04-06
+12291844759,node,https://www.openstreetmap.org/node/12291844759,,,,,,,,41.1117612,16.5028941,,,,,,,,2026-04-06
+12310097371,node,https://www.openstreetmap.org/node/12310097371,,,,,,,,40.4727671,17.2338256,,,,,,yes,0,2026-04-06
+12310292791,node,https://www.openstreetmap.org/node/12310292791,,,,,,,,40.8883356,16.9493661,,,,,,no,,2026-04-06
+12368110101,node,https://www.openstreetmap.org/node/12368110101,,,,,,,,40.2734854,18.3340678,,yes,,,,no,,2026-04-06
+12386192445,node,https://www.openstreetmap.org/node/12386192445,,,,,,,,41.2819265,16.4181649,,,,,,,,2026-04-06
+12462733657,node,https://www.openstreetmap.org/node/12462733657,,,,,,,,40.2552017,18.4441626,,yes,,,,no,,2026-04-06
+12473215195,node,https://www.openstreetmap.org/node/12473215195,,,,,,,,39.9952594,18.3982404,,,,,,no,,2026-04-06
+12484904427,node,https://www.openstreetmap.org/node/12484904427,,,,,,,,41.2085773,16.5814657,,yes,,,,no,,2026-04-06
+12531618571,node,https://www.openstreetmap.org/node/12531618571,,,,,,,,41.1348379,16.763929,,,,,,no,0,2026-04-06
+12541254133,node,https://www.openstreetmap.org/node/12541254133,,,,,,,,41.1978836,16.5947991,,,,,,no,,2026-04-06
+12541357245,node,https://www.openstreetmap.org/node/12541357245,,,,,,,,41.200669,16.6067198,,,,,,no,,2026-04-06
+12549038025,node,https://www.openstreetmap.org/node/12549038025,,,,,,,,41.2794313,16.4188578,,yes,,,,no,,2026-04-06
+12549038063,node,https://www.openstreetmap.org/node/12549038063,,,,,,,,41.2761294,16.4256409,"Mo,We,Fr 19:00-21:15; Tu,Th 08:00-11:00, 15:00-21:15; Sa 08:00-12:00; Su off",yes,,,,yes,,2026-04-06
+12558542503,node,https://www.openstreetmap.org/node/12558542503,,,,,,,,41.196524,16.5968685,,yes,,,,no,,2026-04-06
+12558549860,node,https://www.openstreetmap.org/node/12558549860,,,,,,,,40.6473144,17.5155823,,,,,,,,2026-04-06
+12563595945,node,https://www.openstreetmap.org/node/12563595945,,,,,,,,40.9715821,17.1109129,,,,,,,,2026-04-06
+12625691725,node,https://www.openstreetmap.org/node/12625691725,Dae C/o iISS Bachelet,,,,,,,40.2732098,18.0411393,,,,,,,,2026-04-06
+12647257465,node,https://www.openstreetmap.org/node/12647257465,DAE H24,Condominio: suonare 3º piano Ferrari,,,,,,41.3192011,16.2881327,,,,,,,,2026-04-06
+12676639543,node,https://www.openstreetmap.org/node/12676639543,,,,,,,,40.4762416,17.9702992,,yes,,,,yes,,2026-04-06
+12706365756,node,https://www.openstreetmap.org/node/12706365756,,,,,,,,40.1741134,18.1698951,,,,,,,,2026-04-06
+12706368660,node,https://www.openstreetmap.org/node/12706368660,,,,,,,,40.7863843,17.2378705,,,,,,,,2026-04-06
+12706374368,node,https://www.openstreetmap.org/node/12706374368,,,,,,,,40.7812866,17.2349038,,,,,,no,,2026-04-06
+12706389207,node,https://www.openstreetmap.org/node/12706389207,,,,,,,,40.6296316,16.9386428,,,,,,,,2026-04-06
+12706390154,node,https://www.openstreetmap.org/node/12706390154,,,,,,,,40.6334446,17.0388273,,,,,,no,,2026-04-06
+12729074467,node,https://www.openstreetmap.org/node/12729074467,DAE c/o IC Pascoli,,,,,,,40.7953119,17.1206325,,no,,,,yes,,2026-04-06
+12759332172,node,https://www.openstreetmap.org/node/12759332172,,,,,,,,40.4202648,15.0065088,,,,,,yes,,2026-04-06
+12797213870,node,https://www.openstreetmap.org/node/12797213870,,,,,,,,40.5500267,17.7140529,,yes,,,,no,,2026-04-06
+12797221036,node,https://www.openstreetmap.org/node/12797221036,,,,,,,,40.553336,17.7154327,,yes,,,,no,,2026-04-06
+12797401803,node,https://www.openstreetmap.org/node/12797401803,,,,,,,,40.5528409,17.7145705,,yes,,,,no,,2026-04-06
+12798019632,node,https://www.openstreetmap.org/node/12798019632,,,,,,,,40.8860238,17.3868394,Mo-Sa 08:30-19:30; Su 08:30-13:30,,,,,yes,,2026-04-06
+12798022817,node,https://www.openstreetmap.org/node/12798022817,,,,,,,,41.1835938,16.6697014,,,,,,no,,2026-04-06
+12800041150,node,https://www.openstreetmap.org/node/12800041150,,,,,,,,40.5566666,17.7152781,,yes,,,,no,,2026-04-06
+12800315363,node,https://www.openstreetmap.org/node/12800315363,,,,,,,,40.5542175,17.7163826,,yes,,,,no,,2026-04-06
+12800364134,node,https://www.openstreetmap.org/node/12800364134,,,,,,,,40.5535226,17.717704,,yes,,,,no,,2026-04-06
+12814336401,node,https://www.openstreetmap.org/node/12814336401,DAE c/o IISS Canudo,,,,,,,40.802446,16.9299303,,,,,,yes,,2026-04-06
+12823173480,node,https://www.openstreetmap.org/node/12823173480,Postazione Defibrillatore,,,,,,,40.3340303,18.1206157,,yes,,,,,,2026-04-06
+12823173481,node,https://www.openstreetmap.org/node/12823173481,Postazione Defibrillatore,,,,,,,40.3349868,18.1199558,,yes,,,,,,2026-04-06
+12834791752,node,https://www.openstreetmap.org/node/12834791752,,mapped based on sign on the north door of the building,,,,,,40.9454951,17.3096319,,,,,,yes,,2026-04-06
+12860744204,node,https://www.openstreetmap.org/node/12860744204,,,,,,,,41.1226825,16.8721902,Mo-Su 10:00-21:00,,Bershka,,,yes,0,2026-04-06
+12920804806,node,https://www.openstreetmap.org/node/12920804806,,,,,,,,41.6221741,15.8934715,,permit,,,,yes,0,2026-04-06
+12920822701,node,https://www.openstreetmap.org/node/12920822701,,,,,,,,41.6289167,15.9186142,,permit,,,,yes,0,2026-04-06
+12925516809,node,https://www.openstreetmap.org/node/12925516809,,,,,,,,41.2236268,16.311761,Mo-Sa 08:00-17:00,yes,,,,yes,,2026-04-06
+12963835886,node,https://www.openstreetmap.org/node/12963835886,,,,,,,,41.2046379,16.6003025,,,,,,no,,2026-04-06
+12963835887,node,https://www.openstreetmap.org/node/12963835887,,,,,,,,41.204945,16.5974095,,,,,,no,,2026-04-06
+12967085987,node,https://www.openstreetmap.org/node/12967085987,,,,,,,,40.2687138,14.9443409,,yes,,,,no,,2026-04-06
+12990669154,node,https://www.openstreetmap.org/node/12990669154,,,,,,,,41.1303977,16.5473786,,,,,,no,,2026-04-06
+12990669155,node,https://www.openstreetmap.org/node/12990669155,,,,,,,,41.1267292,16.5482759,,,,,,,,2026-04-06
+13015509695,node,https://www.openstreetmap.org/node/13015509695,,,,,,,,40.249406,15.1880516,,,,,,no,,2026-04-06
+13017910126,node,https://www.openstreetmap.org/node/13017910126,,,,,,,,40.5316328,17.4394798,,,,,,no,,2026-04-06
+13017970933,node,https://www.openstreetmap.org/node/13017970933,,,,,,,,40.5285855,17.4399848,,,,,,no,,2026-04-06
+13036850232,node,https://www.openstreetmap.org/node/13036850232,,,,,,,,40.5331946,15.0588251,,yes,,,,,,2026-04-06
+13056467479,node,https://www.openstreetmap.org/node/13056467479,,,,,,,,40.5420066,17.4321444,,,,,,no,,2026-04-06
+13056562579,node,https://www.openstreetmap.org/node/13056562579,,,,,,,,40.5329966,17.431292,,,,,,no,,2026-04-06
+13057563492,node,https://www.openstreetmap.org/node/13057563492,,,,,,,,40.9981766,15.6530143,,,,,,yes,,2026-04-06
+13057585508,node,https://www.openstreetmap.org/node/13057585508,,,,,,,,40.996806,15.6582016,,,,,,yes,,2026-04-06
+13059984983,node,https://www.openstreetmap.org/node/13059984983,,,,,,,,40.5325139,17.4353244,24/7,yes,,,,no,,2026-04-06
+13060106098,node,https://www.openstreetmap.org/node/13060106098,,,,,,,,41.2789173,16.4134988,,,,,,no,,2026-04-06
+13083849163,node,https://www.openstreetmap.org/node/13083849163,,,,,,,,40.1149229,18.4523655,,,,,,,,2026-04-06
+13120165719,node,https://www.openstreetmap.org/node/13120165719,,,,,,,,41.1309062,16.5537077,,yes,,,,,,2026-04-06
+13136671276,node,https://www.openstreetmap.org/node/13136671276,,,,,,,,40.2444316,15.5522212,,yes,,,,,,2026-04-06
+13138373674,node,https://www.openstreetmap.org/node/13138373674,,,,,,,,40.2114163,16.6771569,,,,,,no,,2026-04-06
+13164814535,node,https://www.openstreetmap.org/node/13164814535,,,,,,,,41.3221135,16.2840743,,,,,,,,2026-04-06
+13164814536,node,https://www.openstreetmap.org/node/13164814536,,,,,,,,41.3179564,16.2813968,,,,,,,,2026-04-06
+13186142402,node,https://www.openstreetmap.org/node/13186142402,,,,,,,,40.7919356,15.9390864,,yes,Militare di servizio alla caserma,,,yes,,2026-04-06
+13186142901,node,https://www.openstreetmap.org/node/13186142901,,,,,,,,40.7919407,15.9390259,,yes,Militare di servizio alla caserma,,,yes,,2026-04-06
+13192246098,node,https://www.openstreetmap.org/node/13192246098,,,,,,,,41.1292503,16.5400168,,,,,,,,2026-04-06
+13261793409,node,https://www.openstreetmap.org/node/13261793409,,,,,,,,40.2471862,15.8887507,,yes,,,,,,2026-04-06
+13284806601,node,https://www.openstreetmap.org/node/13284806601,,,,,,,,40.0550517,17.9744218,,,,,,,,2026-04-06
+13312837597,node,https://www.openstreetmap.org/node/13312837597,,,,,,,,41.6863335,15.3802507,,,,,,,,2026-04-06
+13312897755,node,https://www.openstreetmap.org/node/13312897755,,,,,,,,41.8972573,15.9532859,,,,,,,,2026-04-06
+13322524111,node,https://www.openstreetmap.org/node/13322524111,,,,,,,,39.7781948,16.1556759,,yes,,,,,,2026-04-06
+13351635348,node,https://www.openstreetmap.org/node/13351635348,,,,,,,,40.6357727,15.3822194,,,,,,no,,2026-04-06
+13397330350,node,https://www.openstreetmap.org/node/13397330350,,,,,,,,40.6322174,15.3712077,,,,,,,,2026-04-06
+13398144827,node,https://www.openstreetmap.org/node/13398144827,,,,,,,,41.1267512,16.5482948,,yes,,,,no,,2026-04-06
+13398242719,node,https://www.openstreetmap.org/node/13398242719,,,,,,,,41.2166882,16.5460867,,,,,,,,2026-04-06
+13398405784,node,https://www.openstreetmap.org/node/13398405784,,,,,,,,41.216186,16.5470148,,,,,,,,2026-04-06
+13410986145,node,https://www.openstreetmap.org/node/13410986145,Mindray BeneHeart D1,,,,,,,41.4660838,15.5500464,Mo-Tu 06:45-20:45; Su 08:00-13:30,yes,,,,yes,0,2026-04-06
+13414247021,node,https://www.openstreetmap.org/node/13414247021,,,,,,,,40.632052,15.3682886,,,,,,,,2026-04-06
+13415555992,node,https://www.openstreetmap.org/node/13415555992,,,,,,,,40.5308409,17.445036,,,,,,,,2026-04-06
+13416162952,node,https://www.openstreetmap.org/node/13416162952,,,,,,,,39.8676922,16.5321713,,yes,,,,no,,2026-04-06
+13426658226,node,https://www.openstreetmap.org/node/13426658226,,,,,,,,41.2008337,16.5996069,,yes,,,,no,,2026-04-06
+13460826488,node,https://www.openstreetmap.org/node/13460826488,,,,,,,,41.3138888,16.254593,,,,,,yes,0,2026-04-06
+13480727601,node,https://www.openstreetmap.org/node/13480727601,,,,,,,,41.3155256,16.2785371,,yes,,112,,no,,2026-04-06
+13534435567,node,https://www.openstreetmap.org/node/13534435567,,,,,,,,39.9414334,18.2998049,,,,,,,,2026-04-06
+13534602601,node,https://www.openstreetmap.org/node/13534602601,,,,,,,,41.3197663,16.2832734,,yes,,112,,no,,2026-04-06
+13575258936,node,https://www.openstreetmap.org/node/13575258936,DAE 24h Parete municipio,,,,,,,40.5572412,17.8107267,,,,,,,,2026-04-06
+13607265341,node,https://www.openstreetmap.org/node/13607265341,,,,,,,,41.2684824,16.4181478,,private,,,,yes,,2026-04-06
+13611194401,node,https://www.openstreetmap.org/node/13611194401,,,,,,,,40.5816462,15.6715526,,yes,,,,no,,2026-04-06
+13612532411,node,https://www.openstreetmap.org/node/13612532411,,,,,,,,41.3184841,16.2835442,,,,,,,,2026-04-06
+13625171915,node,https://www.openstreetmap.org/node/13625171915,,,,,,,,40.2094107,15.1178017,,,,,,,,2026-04-06
+13628636773,node,https://www.openstreetmap.org/node/13628636773,,,,,,,,40.2326783,15.0933849,,,,,,,,2026-04-06
+13630874094,node,https://www.openstreetmap.org/node/13630874094,,,,,,,,40.2015732,15.0583895,,,,,,,,2026-04-06
+13639263901,node,https://www.openstreetmap.org/node/13639263901,,,,,,,,40.3345106,17.9702445,,yes,,,,no,,2026-04-06
+13639266601,node,https://www.openstreetmap.org/node/13639266601,,,,,,,,40.3377866,17.9549822,,yes,,,,no,,2026-04-06
+13641297150,node,https://www.openstreetmap.org/node/13641297150,,,,,,,,40.5512051,17.7208661,,yes,,,,no,,2026-04-06
+13645238003,node,https://www.openstreetmap.org/node/13645238003,,,,,,,,40.5342835,17.4280298,,,,,,no,,2026-04-06
+13650657775,node,https://www.openstreetmap.org/node/13650657775,,,,,,,,41.1320292,16.5495259,,,,,,no,,2026-04-06
+13705981422,node,https://www.openstreetmap.org/node/13705981422,,,,,,,,40.2781334,14.9523228,,,,,,no,,2026-04-06
+13708880516,node,https://www.openstreetmap.org/node/13708880516,,,,,,,,41.3200139,16.264236,,,,,,,,2026-04-06
