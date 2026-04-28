@@ -268,11 +268,9 @@ def build_graph(elements, base_uri):
         # poi:hasPOICategory (corretta - sostituisce hasPointOfInterestType inesistente)
         g.add((dae_uri, POI.hasPOICategory, cat_dae))
 
-        # === Geo WGS84 (datatype xsd:decimal) ===
-        g.add((dae_uri, GEO.lat, Literal(str(lat), datatype=XSD.decimal)))
-        g.add((dae_uri, GEO["long"], Literal(str(lon), datatype=XSD.decimal)))
-
         # === Indirizzo CLV ===
+        # Le coordinate WGS84 vanno sul nodo clv:Address (pattern ANNCSU/CLV)
+        # non sul POI, secondo l'ecosistema schema.gov.it / dati.gov.it
         g.add((dae_uri, CLV.hasAddress, addr_uri))
 
         # === Geometria GeoSPARQL ===
@@ -333,6 +331,14 @@ def build_graph(elements, base_uri):
 
         # === Address node CLV ===
         g.add((addr_uri, RDF.type, CLV.Address))
+
+        # === Coordinate WGS84 sul nodo Address (pattern CLV ufficiale) ===
+        # Doppia modellazione: geo:lat/long (W3C standard) + clv:lat/long (CLV native)
+        g.add((addr_uri, GEO.lat, Literal(str(lat), datatype=XSD.decimal)))
+        g.add((addr_uri, GEO["long"], Literal(str(lon), datatype=XSD.decimal)))
+        g.add((addr_uri, CLV.lat, Literal(str(lat), datatype=XSD.decimal)))
+        g.add((addr_uri, CLV["long"], Literal(str(lon), datatype=XSD.decimal)))
+
         # Costruzione fullAddress (datatypeProperty CLV)
         full_parts = []
         if street:
