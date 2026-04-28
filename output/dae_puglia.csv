@@ -479,4 +479,3 @@ osm_id,osm_type,osm_url,name,description,addr_street,addr_housenumber,addr_city,
 13755486901,node,https://www.openstreetmap.org/node/13755486901,,,,,,,,40.5543983,16.6702356,,yes,,,,no,,2026-04-28
 13755558101,node,https://www.openstreetmap.org/node/13755558101,,,,,,,,40.5519912,16.6660621,,yes,,,,no,,2026-04-28
 13755738902,node,https://www.openstreetmap.org/node/13755738902,,,,,,,,41.2230952,14.9796656,,,,,,no,,2026-04-28
-13758983701,node,https://www.openstreetmap.org/node/13758983701,,,,,,,,40.5459203,16.6670423,,yes,,,,no,,2026-04-28

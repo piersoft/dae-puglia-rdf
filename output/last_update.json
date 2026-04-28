@@ -1,7 +1,7 @@
 {
   "updated": "2026-04-28",
-  "elements_count": 481,
-  "triples_count": 7606,
+  "elements_count": 480,
+  "triples_count": 8640,
   "source": "OpenStreetMap via Overpass API",
   "bbox": [
     39.7,
@@ -10,6 +10,16 @@
     18.6
   ],
   "query_tag": "emergency=defibrillator",
+  "ontologies": [
+    "POI-AP_IT",
+    "CLV-AP_IT",
+    "COV-AP_IT",
+    "TI-AP_IT",
+    "l0",
+    "schema.org",
+    "GeoSPARQL",
+    "WGS84-geo"
+  ],
   "files": [
     "dae_puglia.ttl",
     "dae_puglia.rdf",
