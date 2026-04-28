@@ -476,6 +476,3 @@ osm_id,osm_type,osm_url,name,description,addr_street,addr_housenumber,addr_city,
 13732308534,node,https://www.openstreetmap.org/node/13732308534,,,Via Cairoli,,Bari,70121,BA,41.1256867,16.8668127,Mo-Fr 09:00-18:00,permit,BdM Banca,,,,0,2026-04-28
 13732629787,node,https://www.openstreetmap.org/node/13732629787,DAE c/o Istituto Tecnico Commerciale Olivetti,,,,,,,40.3444371,18.1856873,,,,,,,,2026-04-28
 13738482601,node,https://www.openstreetmap.org/node/13738482601,,,,,,,,40.3952681,18.0196264,,yes,,,,no,,2026-04-28
-13755486901,node,https://www.openstreetmap.org/node/13755486901,,,,,,,,40.5543983,16.6702356,,yes,,,,no,,2026-04-28
-13755558101,node,https://www.openstreetmap.org/node/13755558101,,,,,,,,40.5519912,16.6660621,,yes,,,,no,,2026-04-28
-13755738902,node,https://www.openstreetmap.org/node/13755738902,,,,,,,,41.2230952,14.9796656,,,,,,no,,2026-04-28
