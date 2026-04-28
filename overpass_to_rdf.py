@@ -243,6 +243,10 @@ def build_graph(elements, base_uri):
         indoor      = tags.get("indoor", "")
         level       = tags.get("level", "")
 
+        # Flag: ha almeno un componente d'indirizzo OSM?
+        # Se no, non emettiamo clv:Address (un Address senza componenti non e' un Address)
+        has_addr = bool(street or housenumber or city_raw or postcode)
+
         osm_url = f"https://www.openstreetmap.org/{osm_type}/{osm_id}"
 
         # Etichetta italiana
@@ -269,9 +273,15 @@ def build_graph(elements, base_uri):
         g.add((dae_uri, POI.hasPOICategory, cat_dae))
 
         # === Indirizzo CLV ===
-        # Le coordinate WGS84 vanno sul nodo clv:Address (pattern ANNCSU/CLV)
-        # non sul POI, secondo l'ecosistema schema.gov.it / dati.gov.it
-        g.add((dae_uri, CLV.hasAddress, addr_uri))
+        # Solo se OSM ha almeno un componente d'indirizzo (street/city/postcode/housenumber).
+        # Pattern: coordinate WGS84 sul nodo clv:Address (ANNCSU/CLV).
+        # Se address assente, le coordinate vanno sul POI come fallback.
+        if has_addr:
+            g.add((dae_uri, CLV.hasAddress, addr_uri))
+        else:
+            # Fallback: coordinate sul POI (no Address node creato)
+            g.add((dae_uri, GEO.lat, Literal(str(lat), datatype=XSD.decimal)))
+            g.add((dae_uri, GEO["long"], Literal(str(lon), datatype=XSD.decimal)))
 
         # === Geometria GeoSPARQL ===
         g.add((dae_uri, GSP.hasGeometry, geom_uri))
@@ -329,52 +339,53 @@ def build_graph(elements, base_uri):
             # (sostituisce poi:isManagedBy che non esiste nell'ontologia POI ufficiale)
             g.add((dae_uri, DCTERMS.rightsHolder, ente_uri))
 
-        # === Address node CLV ===
-        g.add((addr_uri, RDF.type, CLV.Address))
+        # === Address node CLV (solo se OSM ha tag addr:* valorizzati) ===
+        if has_addr:
+            g.add((addr_uri, RDF.type, CLV.Address))
 
-        # === Coordinate WGS84 sul nodo Address (pattern CLV ufficiale) ===
-        # Doppia modellazione: geo:lat/long (W3C standard) + clv:lat/long (CLV native)
-        g.add((addr_uri, GEO.lat, Literal(str(lat), datatype=XSD.decimal)))
-        g.add((addr_uri, GEO["long"], Literal(str(lon), datatype=XSD.decimal)))
-        g.add((addr_uri, CLV.lat, Literal(str(lat), datatype=XSD.decimal)))
-        g.add((addr_uri, CLV["long"], Literal(str(lon), datatype=XSD.decimal)))
+            # === Coordinate WGS84 sul nodo Address (pattern CLV ufficiale) ===
+            # Doppia modellazione: geo:lat/long (W3C standard) + clv:lat/long (CLV native)
+            g.add((addr_uri, GEO.lat, Literal(str(lat), datatype=XSD.decimal)))
+            g.add((addr_uri, GEO["long"], Literal(str(lon), datatype=XSD.decimal)))
+            g.add((addr_uri, CLV.lat, Literal(str(lat), datatype=XSD.decimal)))
+            g.add((addr_uri, CLV["long"], Literal(str(lon), datatype=XSD.decimal)))
 
-        # Costruzione fullAddress (datatypeProperty CLV)
-        full_parts = []
-        if street:
-            sp = f"{street} {housenumber}".strip()
-            full_parts.append(sp)
-        if postcode and city_raw:
-            full_parts.append(f"{postcode} {city_raw}")
-        elif city_raw:
-            full_parts.append(city_raw)
-        elif postcode:
-            full_parts.append(postcode)
-        if full_parts:
-            g.add((addr_uri, CLV.fullAddress, Literal(" - ".join(full_parts), lang="it")))
+            # Costruzione fullAddress (datatypeProperty CLV)
+            full_parts = []
+            if street:
+                sp = f"{street} {housenumber}".strip()
+                full_parts.append(sp)
+            if postcode and city_raw:
+                full_parts.append(f"{postcode} {city_raw}")
+            elif city_raw:
+                full_parts.append(city_raw)
+            elif postcode:
+                full_parts.append(postcode)
+            if full_parts:
+                g.add((addr_uri, CLV.fullAddress, Literal(" - ".join(full_parts), lang="it")))
 
-        # streetNumber (datatypeProperty CLV ufficiale)
-        if housenumber:
-            g.add((addr_uri, CLV.streetNumber, Literal(housenumber)))
+            # streetNumber (datatypeProperty CLV ufficiale)
+            if housenumber:
+                g.add((addr_uri, CLV.streetNumber, Literal(housenumber)))
 
-        # postCode (datatypeProperty CLV)
-        if postcode:
-            g.add((addr_uri, CLV.postCode, Literal(postcode)))
+            # postCode (datatypeProperty CLV)
+            if postcode:
+                g.add((addr_uri, CLV.postCode, Literal(postcode)))
 
-        # === Citta' (clv:hasCity e' ObjectProperty -> range clv:City) ===
-        # Solo se abbiamo URI ISTAT noto. Altrimenti SKIP - mai literal su ObjectProperty.
-        # La citta' resta nel fullAddress come testo.
-        city_istat_uri, city_label = city_uri(city_raw)
-        if city_istat_uri:
-            g.add((addr_uri, CLV.hasCity, city_istat_uri))
-            g.add((city_istat_uri, RDF.type, CLV.City))
-            g.add((city_istat_uri, RDFS.label, Literal(city_label, lang="it")))
-            g.add((city_istat_uri, L0.name, Literal(city_label, lang="it")))
+            # === Citta' (clv:hasCity e' ObjectProperty -> range clv:City) ===
+            # Solo se abbiamo URI ISTAT noto. Altrimenti SKIP - mai literal su ObjectProperty.
+            # La citta' resta nel fullAddress come testo.
+            city_istat_uri, city_label = city_uri(city_raw)
+            if city_istat_uri:
+                g.add((addr_uri, CLV.hasCity, city_istat_uri))
+                g.add((city_istat_uri, RDF.type, CLV.City))
+                g.add((city_istat_uri, RDFS.label, Literal(city_label, lang="it")))
+                g.add((city_istat_uri, L0.name, Literal(city_label, lang="it")))
 
-        # === Country (clv:hasCountry -> clv:Country) ===
-        g.add((addr_uri, CLV.hasCountry, country_ita))
+            # === Country (clv:hasCountry -> clv:Country) ===
+            g.add((addr_uri, CLV.hasCountry, country_ita))
 
-        # === Geometria GeoSPARQL (WKT) ===
+        # === Geometria GeoSPARQL (WKT) - sempre presente ===
         g.add((geom_uri, RDF.type, GSP.Geometry))
         g.add((geom_uri, GSP.asWKT, Literal(f"POINT({lon} {lat})", datatype=GSP.wktLiteral)))
 
@@ -411,6 +422,9 @@ def load_mock_data():
          "tags": {"emergency": "defibrillator", "name": "DAE Aeroporto Foggia",
                   "addr:city": "Foggia", "addr:postcode": "71100",
                   "opening_hours": "24/7", "operator": "ENAC"}},
+        {"type": "node", "id": 123456007, "lat": 41.1534, "lon": 16.7651,
+         "tags": {"emergency": "defibrillator",
+                  "name": "C/o Centro commerciale"}},
     ]
 
 
